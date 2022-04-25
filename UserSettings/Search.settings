@@ -13,10 +13,10 @@ scopes = {
 	"last_search.7C5D90A9" = ""
 	"OpenInspectorPreview.7C5D90A9" = "0"
 	"currentGroup.7C5D90A9" = "all"
-	"last_search.7BEC51F9" = "t:prefab"
+	"last_search.7BEC51F9" = ""
 	"OpenInspectorPreview.7BEC51F9" = "0"
-	"currentGroup.7BEC51F9" = "all"
-	"last_search.8788AF05" = ""
+	"currentGroup.7BEC51F9" = "asset"
+	"last_search.8788AF05" = "ref:"
 	"OpenInspectorPreview.8788AF05" = "0"
 	"currentGroup.8788AF05" = "scene"
 	"last_search.8440E7BB" = ""
@@ -71,6 +71,8 @@ providers = {
 	}
 }
 recentSearches = [
+	"r"
+	"Assets/Data/Meshes/Books2/Books2_3.FBX"
 	"p: p"
 	"p: path:/Assets/Packs/ArchVizPRO Interior Vol.6"
 	"p: path:/ArchVizPRO Interior Vol.6"
