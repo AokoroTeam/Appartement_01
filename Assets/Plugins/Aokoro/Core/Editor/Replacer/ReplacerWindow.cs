@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using UnityEditor.Search;
 
 namespace Aokoro.Editor.Replacer
 {
@@ -34,7 +35,7 @@ namespace Aokoro.Editor.Replacer
 
             GUILayout.BeginVertical("GroupBox");
 
-            int newTab = GUILayout.Toolbar(tab, new string[] { "Selection", "Instance of", "Search" });
+            int newTab = GUILayout.Toolbar(tab, new string[] { "Selection", "Instance of" /*, "Search" */});
             EditorGUILayout.Space();
             prefab = (GameObject)EditorGUILayout.ObjectField("Prefab", prefab, typeof(GameObject), false);
 
@@ -49,9 +50,6 @@ namespace Aokoro.Editor.Replacer
                     break;
                 case 1:
                     InstanceOfReplacement();
-                    break;
-                case 2:
-                    SearchReplacement();
                     break;
                 default:
                     return;
@@ -85,6 +83,10 @@ namespace Aokoro.Editor.Replacer
             var _source = (GameObject)EditorGUILayout.ObjectField("Source", prefabInstanceSource, typeof(GameObject), false);
             if (_source == null)
             {
+                if (prefabInstanceSource != null)
+                    targets = new GameObject[0];
+
+                prefabInstanceSource = null;
                 EditorGUILayout.HelpBox("Source cannot be empty.", MessageType.Warning);
                 return;
             }
@@ -99,7 +101,7 @@ namespace Aokoro.Editor.Replacer
                 //Search for all references
                 EditorGUILayout.Separator();
                 if (_source != prefabInstanceSource || GUILayout.Button("Refresh", EditorStyles.miniButtonLeft))
-                    targets = PrefabUtility.FindAllInstancesOfPrefab(prefabInstanceSource);
+                    targets = PrefabUtility.FindAllInstancesOfPrefab(_source);
 
                 prefabInstanceSource = _source;
                 DrawTargets();

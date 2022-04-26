@@ -22,6 +22,12 @@ scopes = {
 	"last_search.8440E7BB" = ""
 	"OpenInspectorPreview.8440E7BB" = "0"
 	"currentGroup.8440E7BB" = "all"
+	"last_search.B064B029" = ""
+	"OpenInspectorPreview.B064B029" = "0"
+	"currentGroup.B064B029" = "all"
+	"last_search.9440E7BB" = ""
+	"OpenInspectorPreview.9440E7BB" = "0"
+	"currentGroup.9440E7BB" = "all"
 }
 providers = {
 	adb = {
