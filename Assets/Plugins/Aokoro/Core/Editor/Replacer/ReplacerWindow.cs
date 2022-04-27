@@ -133,14 +133,14 @@ namespace Aokoro.Editor.Replacer
                 var prefabType = PrefabUtility.GetPrefabAssetType(prefab);
 
                 GameObject instance = (GameObject)PrefabUtility.InstantiatePrefab(prefab, selected.scene);
-                Undo.RegisterCreatedObjectUndo(instance, "Replace With Prefabs");
 
                 instance.transform.parent = selected.transform.parent;
                 instance.transform.localPosition = selected.transform.localPosition;
                 instance.transform.localRotation = selected.transform.localRotation;
                 instance.transform.localScale = selected.transform.localScale;
-
                 instance.transform.SetSiblingIndex(selected.transform.GetSiblingIndex());
+
+                Undo.RegisterCreatedObjectUndo(instance, "Replace With Prefabs");
                 Undo.DestroyObjectImmediate(selected);
             }
 
@@ -161,20 +161,27 @@ namespace Aokoro.Editor.Replacer
                 return false;
             }
         }
+        bool targetFoldout;
 
         private void DrawTargets()
         {
+            int indent = EditorGUI.indentLevel;
             int length = targets.Length;
             if (length == 0)
                 return;
-            EditorGUILayout.LabelField("Selection", EditorStyles.boldLabel);
-            EditorGUI.indentLevel++;
-            for (int i = 0; i < length; i++)
+            targetFoldout = EditorGUILayout.BeginFoldoutHeaderGroup(targetFoldout, $"{length} instances found");
+            if (targetFoldout)
             {
-                GUI.enabled = false;
-                EditorGUILayout.ObjectField(targets[i], typeof(GameObject), true);
-                GUI.enabled = true;
+                EditorGUI.indentLevel++;
+                for (int i = 0; i < length; i++)
+                {
+                    GUI.enabled = false;
+                    EditorGUILayout.ObjectField(targets[i], typeof(GameObject), true);
+                    GUI.enabled = true;
+                }
             }
+            EditorGUILayout.EndFoldoutHeaderGroup();
+            EditorGUI.indentLevel = indent;
         }
         #endregion
 
