@@ -13,6 +13,7 @@ using NaughtyAttributes;
 
 namespace Aokoro.Tools.LODs
 {
+
     public class LODCombiner : MonoBehaviour
     {
         public string exportPath;
