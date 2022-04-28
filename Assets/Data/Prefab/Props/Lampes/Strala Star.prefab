@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1252285867060938}
-  m_Mesh: {fileID: 4300002, guid: 3c1e2a74e63e4f34fb64873ad362088f, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 9eaa57e5a8192fd42a5dfdb33b451a7c, type: 2}
 --- !u!23 &23423159970718038
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -106,6 +106,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4292018860482336}
+  - component: {fileID: 6406623802887296808}
+  - component: {fileID: 3735711989301749712}
   m_Layer: 0
   m_Name: Strala Star
   m_TagString: Untagged
@@ -131,6 +133,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6406623802887296808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348059885603660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a054274092705d47b8cc27f27aab3bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3735711989301749712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348059885603660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6643f2ddd2d70e24ca75125fe058d9fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1360935414374202
 GameObject:
   m_ObjectHideFlags: 0
@@ -171,7 +197,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1360935414374202}
-  m_Mesh: {fileID: 4300006, guid: 3c1e2a74e63e4f34fb64873ad362088f, type: 3}
+  m_Mesh: {fileID: 4300000, guid: f696f7003d6327847945de8d8912d5a3, type: 2}
 --- !u!23 &23308826678568008
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -254,7 +280,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484203122928212}
-  m_Mesh: {fileID: 4300004, guid: 3c1e2a74e63e4f34fb64873ad362088f, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 9b933442683c99b46877dc67891dd0af, type: 2}
 --- !u!23 &23756549132111246
 MeshRenderer:
   m_ObjectHideFlags: 0

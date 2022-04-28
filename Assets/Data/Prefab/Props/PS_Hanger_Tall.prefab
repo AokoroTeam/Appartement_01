@@ -9,6 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4225914958931360}
+  - component: {fileID: 2186567147787686767}
+  - component: {fileID: 3639941589771409559}
   m_Layer: 0
   m_Name: PS_Hanger_Tall
   m_TagString: Untagged
@@ -32,6 +34,43 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2186567147787686767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1080256065224502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbc09fb139a7b4448578f10ebbed9ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exportPath: Data/Meshes/PS Hanger
+--- !u!205 &3639941589771409559
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1080256065224502}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers: []
+  - screenRelativeHeight: 0.3
+    fadeTransitionWidth: 0
+    renderers: []
+  - screenRelativeHeight: 0.024133848
+    fadeTransitionWidth: 0
+    renderers: []
+  m_Enabled: 1
 --- !u!1 &1729354089962978
 GameObject:
   m_ObjectHideFlags: 0
@@ -73,7 +112,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1729354089962978}
-  m_Mesh: {fileID: 4300000, guid: d12bd465a8082484e80fa9e2d6c53f67, type: 3}
+  m_Mesh: {fileID: 4300000, guid: d598418e3edd4db4383001529b8a70a1, type: 2}
 --- !u!23 &23384453475980686
 MeshRenderer:
   m_ObjectHideFlags: 0

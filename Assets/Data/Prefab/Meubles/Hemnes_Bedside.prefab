@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1130456909495036}
-  m_Mesh: {fileID: 4300000, guid: 0a63b9a14aab6194284b244eebdb5997, type: 3}
+  m_Mesh: {fileID: 4300000, guid: b355a817a31d573409dde4dacef19c2e, type: 2}
 --- !u!23 &23922798602635126
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -106,6 +106,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4798716232884380}
+  - component: {fileID: 8736777068321382966}
+  - component: {fileID: 7280385879952647712}
   m_Layer: 0
   m_Name: Hemnes_Bedside
   m_TagString: Untagged
@@ -129,3 +131,40 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8736777068321382966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939302121421492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbc09fb139a7b4448578f10ebbed9ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exportPath: Data/Meshes/Hemnes_Bedside
+--- !u!205 &7280385879952647712
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939302121421492}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers: []
+  - screenRelativeHeight: 0.3
+    fadeTransitionWidth: 0
+    renderers: []
+  - screenRelativeHeight: 0.024133848
+    fadeTransitionWidth: 0
+    renderers: []
+  m_Enabled: 1
