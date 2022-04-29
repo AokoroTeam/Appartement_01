@@ -13,12 +13,12 @@ scopes = {
 	"last_search.7C5D90A9" = ""
 	"OpenInspectorPreview.7C5D90A9" = "0"
 	"currentGroup.7C5D90A9" = "all"
-	"last_search.7BEC51F9" = ""
+	"last_search.7BEC51F9" = "h: t:meshfilter p(m_Mesh):none"
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "ref:"
+	"last_search.8788AF05" = "h: t:meshfilter p(m_Mesh):none"
 	"OpenInspectorPreview.8788AF05" = "0"
-	"currentGroup.8788AF05" = "scene"
+	"currentGroup.8788AF05" = "all"
 	"last_search.8440E7BB" = ""
 	"OpenInspectorPreview.8440E7BB" = "0"
 	"currentGroup.8440E7BB" = "all"
@@ -77,6 +77,8 @@ providers = {
 	}
 }
 recentSearches = [
+	"h: t:meshfilter p(m_Mesh):none"
+	"h:"
 	"r"
 	"Assets/Data/Meshes/Books2/Books2_3.FBX"
 	"p: p"
@@ -89,7 +91,7 @@ searchItemFavorites = [
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = true
-expandedQueries = [961552606]
+expandedQueries = [-1765347274 961552606]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
 helperWidgetCurrentArea = "all"

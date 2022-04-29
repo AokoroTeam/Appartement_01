@@ -73,7 +73,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1720100183273462}
-  m_Mesh: {fileID: -5038503676132312837, guid: 5801b2a0de3872346a72b0082a4081e7, type: 3}
+  m_Mesh: {fileID: -246543492073790382, guid: 088b9873f2099a04e91d21933c2adc25, type: 3}
 --- !u!23 &23635204592346264
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -156,7 +156,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1954077069927210}
-  m_Mesh: {fileID: 4300000, guid: 1dd94a062dd60534b8db8e9e15cf59d8, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 9c07480ba531d0748b1510eaa8912558, type: 3}
 --- !u!23 &23988313547232572
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -411,7 +411,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7519439110488210068}
-  m_Mesh: {fileID: -8644469689069497331, guid: 5801b2a0de3872346a72b0082a4081e7, type: 3}
+  m_Mesh: {fileID: 214492295369513288, guid: 088b9873f2099a04e91d21933c2adc25, type: 3}
 --- !u!23 &3605170957316087894
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -464,7 +464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2195761375705399532}
   - component: {fileID: 991192260076159945}
-  - component: {fileID: 3422763030071774120}
+  - component: {fileID: 6309900304727688527}
   m_Layer: 0
   m_Name: ElvengenLOD
   m_TagString: Untagged
@@ -501,7 +501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   exportPath: Data/Meshes/Elvengen
---- !u!205 &3422763030071774120
+--- !u!205 &6309900304727688527
 LODGroup:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -521,7 +521,7 @@ LODGroup:
   - screenRelativeHeight: 0.3
     fadeTransitionWidth: 0
     renderers: []
-  - screenRelativeHeight: 0.013450218
+  - screenRelativeHeight: 0.016361939
     fadeTransitionWidth: 0
     renderers: []
   m_Enabled: 1
@@ -565,7 +565,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8616990916317624515}
-  m_Mesh: {fileID: 843114402544851993, guid: 5801b2a0de3872346a72b0082a4081e7, type: 3}
+  m_Mesh: {fileID: -3087367752162333338, guid: 088b9873f2099a04e91d21933c2adc25, type: 3}
 --- !u!23 &1445485020560787198
 MeshRenderer:
   m_ObjectHideFlags: 0
