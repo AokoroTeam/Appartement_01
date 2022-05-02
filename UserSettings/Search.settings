@@ -16,7 +16,7 @@ scopes = {
 	"last_search.7BEC51F9" = "h: t:meshfilter p(m_Mesh):none"
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "h: t:meshfilter p(m_Mesh):none"
+	"last_search.8788AF05" = "lambert8"
 	"OpenInspectorPreview.8788AF05" = "0"
 	"currentGroup.8788AF05" = "all"
 	"last_search.8440E7BB" = ""
@@ -77,6 +77,7 @@ providers = {
 	}
 }
 recentSearches = [
+	"lambert8"
 	"h: t:meshfilter p(m_Mesh):none"
 	"h:"
 	"r"
