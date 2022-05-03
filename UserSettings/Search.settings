@@ -1,11 +1,11 @@
 trackSelection = true
 fetchPreview = true
-wantsMore = false
+wantsMore = true
 keepOpen = false
 queryFolder = "Assets"
 onBoardingDoNotAskAgain = true
 showPackageIndexes = false
-showStatusBar = false
+showStatusBar = true
 scopes = {
 	"last_search.7F95D817" = ""
 	"OpenInspectorPreview.7F95D817" = "0"
@@ -13,10 +13,10 @@ scopes = {
 	"last_search.7C5D90A9" = ""
 	"OpenInspectorPreview.7C5D90A9" = "0"
 	"currentGroup.7C5D90A9" = "all"
-	"last_search.7BEC51F9" = "t:"
+	"last_search.7BEC51F9" = ""
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "h: t:meshfilter p(m_Mesh):reduced"
+	"last_search.8788AF05" = "h: t:meshfilter p(mesh)=\"none\""
 	"OpenInspectorPreview.8788AF05" = "0"
 	"currentGroup.8788AF05" = "scene"
 	"last_search.8440E7BB" = ""
@@ -70,11 +70,6 @@ providers = {
 		priority = 50
 		defaultAction = null
 	}
-	query = {
-		active = true
-		priority = 100
-		defaultAction = null
-	}
 	menu = {
 		active = true
 		priority = 80
@@ -102,6 +97,23 @@ providers = {
 	}
 }
 recentSearches = [
+	"find: "
+	"apply{}"
+	"t:texture"
+	"*"
+	"t:MeshCo"
+	"t:MeshCollider"
+	"t:Mesh"
+	"Ke"
+	":\"kitchen\""
+	"h: t:"
+	"p: name:\""
+	"p: ki"
+	"p: t:"
+	"p: t"
+	"h:"
+	"h: t:meshfilter"
+	"h"
 	"h: t:meshfilter p(m_Mesh):none"
 	"t:p:Meshes"
 	"t:Model"
@@ -111,12 +123,6 @@ recentSearches = [
 	"h:"
 	"lambert8"
 	"r"
-	"Assets/Data/Meshes/Books2/Books2_3.FBX"
-	"p: p"
-	"p: path:/Assets/Packs/ArchVizPRO Interior Vol.6"
-	"p: path:/ArchVizPRO Interior Vol.6"
-	"p: path:/"
-	"p: groupby{}"
 ]
 searchItemFavorites = [
 ]
