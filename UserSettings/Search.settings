@@ -13,10 +13,10 @@ scopes = {
 	"last_search.7C5D90A9" = ""
 	"OpenInspectorPreview.7C5D90A9" = "0"
 	"currentGroup.7C5D90A9" = "all"
-	"last_search.7BEC51F9" = "h: t:meshfilter p(m_Mesh):none"
+	"last_search.7BEC51F9" = "t:"
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "h: t:meshfilter p(m_Mesh):none"
+	"last_search.8788AF05" = "h: t:meshfilter p(m_Mesh):reduced"
 	"OpenInspectorPreview.8788AF05" = "0"
 	"currentGroup.8788AF05" = "all"
 	"last_search.8440E7BB" = ""
@@ -75,11 +75,41 @@ providers = {
 		priority = 100
 		defaultAction = null
 	}
+	menu = {
+		active = true
+		priority = 80
+		defaultAction = null
+	}
+	settings = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	help = {
+		active = true
+		priority = -1
+		defaultAction = null
+	}
+	calculator = {
+		active = true
+		priority = 10
+		defaultAction = null
+	}
+	static_methods = {
+		active = true
+		priority = 85
+		defaultAction = null
+	}
 }
 recentSearches = [
 	"h: t:meshfilter p(m_Mesh):none"
-	"lambert8"
+	"t:p:Meshes"
+	"t:Model"
+	"size"
+	"t:Mesh"
+	"size: t:Mesh"
 	"h:"
+	"lambert8"
 	"r"
 	"Assets/Data/Meshes/Books2/Books2_3.FBX"
 	"p: p"
