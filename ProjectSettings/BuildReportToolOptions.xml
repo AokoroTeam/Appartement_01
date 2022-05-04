@@ -77,7 +77,7 @@
   <AllowDeletingOfUsedAssets>false</AllowDeletingOfUsedAssets>
   <ShowImportedSizeForUsedAssets>false</ShowImportedSizeForUsedAssets>
   <AutoShowWindowAfterNormalBuild>true</AutoShowWindowAfterNormalBuild>
-  <AutoResortAssetsWhenUnityEditorRegainsFocus>false</AutoResortAssetsWhenUnityEditorRegainsFocus>
+  <AutoResortAssetsWhenUnityEditorRegainsFocus>true</AutoResortAssetsWhenUnityEditorRegainsFocus>
   <UseThreadedReportGeneration>true</UseThreadedReportGeneration>
   <UseThreadedFileLoading>false</UseThreadedFileLoading>
 </BuildReportToolOptions>
