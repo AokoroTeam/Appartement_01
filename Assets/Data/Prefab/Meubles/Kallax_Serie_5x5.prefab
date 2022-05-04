@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4466643548645196}
   - component: {fileID: 33073704759387626}
   - component: {fileID: 23891638515000174}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_5x5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4538361525658200}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Serie_5x5
   m_TagString: Untagged
   m_Icon: {fileID: 0}

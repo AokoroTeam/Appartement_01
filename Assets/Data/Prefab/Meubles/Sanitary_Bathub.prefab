@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4260310625296704}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_Bathub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 33327747951256064}
   - component: {fileID: 23137955670688334}
   - component: {fileID: 7621545258819823942}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bathtub
   m_TagString: Untagged
   m_Icon: {fileID: 0}

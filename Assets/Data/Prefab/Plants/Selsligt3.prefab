@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4937063144382842}
   - component: {fileID: 33189597157635546}
   - component: {fileID: 23917547869367452}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selsligt3_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4239548272879530}
   - component: {fileID: 8118542656636834520}
   - component: {fileID: 8855524176278841096}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selsligt3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 5165674270473932753}
   - component: {fileID: 6075238273033442631}
   - component: {fileID: 3511050448020211654}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selsligt3_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5059003908983942788}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,7 +283,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6726591267232270362}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -315,7 +315,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5684205562546206017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -349,7 +349,7 @@ GameObject:
   - component: {fileID: 5799743428661597324}
   - component: {fileID: 2380872796193346700}
   - component: {fileID: 3362974936614530318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selsligt3_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

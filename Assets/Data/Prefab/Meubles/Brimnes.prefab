@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 87154300}
   - component: {fileID: 87154299}
   - component: {fileID: 87154298}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bed_Bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 4665800088350332}
   - component: {fileID: 33207750532333818}
   - component: {fileID: 23212789966618146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Cover2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 4527456172886562}
   - component: {fileID: 33029195533492288}
   - component: {fileID: 23390855568183214}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -273,7 +273,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4583932777016786}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 4476489629257752}
   - component: {fileID: 33293202312666178}
   - component: {fileID: 23143938326052100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -399,7 +399,7 @@ GameObject:
   - component: {fileID: 4299770455642496}
   - component: {fileID: 33506058675863948}
   - component: {fileID: 23654081060585844}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Cover1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 4111565539045358}
   - component: {fileID: 33061143472665362}
   - component: {fileID: 23908735691983352}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -565,7 +565,7 @@ GameObject:
   - component: {fileID: 4650442213803900}
   - component: {fileID: 33645989838104020}
   - component: {fileID: 23776162099117180}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -649,7 +649,7 @@ GameObject:
   - component: {fileID: 33968139722978664}
   - component: {fileID: 23954030027822474}
   - component: {fileID: 90978762197589202}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -745,7 +745,7 @@ GameObject:
   - component: {fileID: 4890123736165174}
   - component: {fileID: 33979903559594724}
   - component: {fileID: 23756234739447928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -828,7 +828,7 @@ GameObject:
   - component: {fileID: 4719760102823534}
   - component: {fileID: 33177546618719434}
   - component: {fileID: 23293204033571288}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brimnes_Pillow6
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33326068826804432}
   - component: {fileID: 23191695468848240}
   - component: {fileID: 5766719560233914614}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4121645654563248}
   - component: {fileID: 2505617460045250591}
   - component: {fileID: 7938474353936218869}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   - component: {fileID: 4524655762132098}
   - component: {fileID: 33875911918101272}
   - component: {fileID: 23940626234560714}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 9158508906392911861}
   - component: {fileID: 2135815331751173918}
   - component: {fileID: 6416756461800364418}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -351,7 +351,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4829606092380220690}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1158889253734779495}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -419,7 +419,7 @@ GameObject:
   - component: {fileID: 6538229129239712585}
   - component: {fileID: 3648802550375688597}
   - component: {fileID: 7461845507802706135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 7240341311903507039}
   - component: {fileID: 3416227546565390964}
   - component: {fileID: 4199357899155200527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -585,7 +585,7 @@ GameObject:
   - component: {fileID: 693825203569684009}
   - component: {fileID: 1036361845210636583}
   - component: {fileID: 8399294772279207941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Svalnas_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,7 +666,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9050909535533801814}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

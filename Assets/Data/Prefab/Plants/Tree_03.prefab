@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4102099964821652}
   - component: {fileID: 33431604422013224}
   - component: {fileID: 23635337934131112}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trunk_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4773052274511128}
   - component: {fileID: 33002930109893782}
   - component: {fileID: 23195580374883454}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Thorn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 4333711853867628}
   - component: {fileID: 95396450757532902}
   - component: {fileID: 205573897593150120}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tree_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +272,7 @@ GameObject:
   - component: {fileID: 4284171501000686}
   - component: {fileID: 33905894916500400}
   - component: {fileID: 23625609972105432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Branches
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -355,7 +355,7 @@ GameObject:
   - component: {fileID: 4846799678001536}
   - component: {fileID: 33010114252657046}
   - component: {fileID: 23196100722968496}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trunk_LOD3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -438,7 +438,7 @@ GameObject:
   - component: {fileID: 4805163277616716}
   - component: {fileID: 33314307003432634}
   - component: {fileID: 23911043400547660}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trunk_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -521,7 +521,7 @@ GameObject:
   - component: {fileID: 4715574023812926}
   - component: {fileID: 33668053148724578}
   - component: {fileID: 23747172825027386}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trunk_LOD4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -604,7 +604,7 @@ GameObject:
   - component: {fileID: 4711483624757756}
   - component: {fileID: 33061920864385422}
   - component: {fileID: 23197616619806232}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trunk_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

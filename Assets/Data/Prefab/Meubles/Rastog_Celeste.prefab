@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33762290986193608}
   - component: {fileID: 23619761409775572}
   - component: {fileID: 1065210801968426310}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4602987709960288}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog_Celeste
   m_TagString: Untagged
   m_Icon: {fileID: 0}

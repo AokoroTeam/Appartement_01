@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6614141015019040365}
   - component: {fileID: 2879630879426183462}
   - component: {fileID: 3325424721833112136}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MacPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,12 +101,12 @@ GameObject:
   - component: {fileID: 91469205979568431}
   - component: {fileID: 2565536922189883448}
   - component: {fileID: 5697864092869037080}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MacPC_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &91469205979568431
 Transform:
@@ -142,7 +142,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -182,12 +182,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5134151419270141854}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5134151419270141854
 Transform:
@@ -216,12 +216,12 @@ GameObject:
   - component: {fileID: 2525982519429568520}
   - component: {fileID: 2525982519426701352}
   - component: {fileID: 2525982519427799784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MacPC_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2525982519429568520
 Transform:
@@ -257,7 +257,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -297,12 +297,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4071998558609896302}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4071998558609896302
 Transform:
@@ -329,12 +329,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5650689595281354891}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5650689595281354891
 Transform:
@@ -363,12 +363,12 @@ GameObject:
   - component: {fileID: 1564381746440342898}
   - component: {fileID: 6552158834142130831}
   - component: {fileID: 1698975763523642345}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MacPC_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1564381746440342898
 Transform:
@@ -404,7 +404,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1

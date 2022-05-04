@@ -51,7 +51,7 @@
   <ShowTextureColumnImportedWidthAndHeight>true</ShowTextureColumnImportedWidthAndHeight>
   <ShowTextureColumnRealWidthAndHeight>false</ShowTextureColumnRealWidthAndHeight>
   <ShowColumnAssetPath>false</ShowColumnAssetPath>
-  <ShowColumnSizeBeforeBuild>false</ShowColumnSizeBeforeBuild>
+  <ShowColumnSizeBeforeBuild>true</ShowColumnSizeBeforeBuild>
   <ShowColumnSizeInBuild>true</ShowColumnSizeInBuild>
   <ShowColumnUnusedRawSize>true</ShowColumnUnusedRawSize>
   <ShowColumnUnusedImportedSize>true</ShowColumnUnusedImportedSize>

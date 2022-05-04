@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4972823536910870}
   - component: {fileID: 4570899090417470817}
   - component: {fileID: 1945808025154776084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33630140205197484}
   - component: {fileID: 23232787141917050}
   - component: {fileID: 7045073151358379820}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2219231803885894935}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 324447120714602870}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 6092374662240594030}
   - component: {fileID: 1543807030811310543}
   - component: {fileID: 2218776121070257423}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 7129017993307655639}
   - component: {fileID: 3244493986474002171}
   - component: {fileID: 3115104502804981135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 399682532535634651}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4437334885262002}
   - component: {fileID: 7104024482864937356}
   - component: {fileID: 8484050352974888302}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog_Black
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33076780253140444}
   - component: {fileID: 23935134090809074}
   - component: {fileID: 9111318131321027867}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog_Black_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6044452678925848062}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 4284009854225998461}
   - component: {fileID: 2436423590646349091}
   - component: {fileID: 8642182285025430645}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog_Black_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4639609313584469731}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 6819318180135798768}
   - component: {fileID: 8176634434409580770}
   - component: {fileID: 1116559662853894912}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rastog_Black_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7263551096003184422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

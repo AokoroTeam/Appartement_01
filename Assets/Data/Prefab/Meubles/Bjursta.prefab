@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4118677911594154}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bjursta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 33094985336976968}
   - component: {fileID: 23021945458757582}
   - component: {fileID: 3920352618525712806}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bjursta
   m_TagString: Untagged
   m_Icon: {fileID: 0}

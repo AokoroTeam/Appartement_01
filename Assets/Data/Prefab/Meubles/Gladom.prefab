@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4261902438751176}
   - component: {fileID: 1648981501819236580}
   - component: {fileID: 6563027529651512798}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gladom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33528788079958858}
   - component: {fileID: 23240893720708060}
   - component: {fileID: 6856600072456432403}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gladom_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 5327411578312446292}
   - component: {fileID: 8058374144759828075}
   - component: {fileID: 5940192206892544318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gladom_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4195733890626433740}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 3957732748782191049}
   - component: {fileID: 8924782264626853867}
   - component: {fileID: 8643059203647917619}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gladom_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7955402744575217365}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2929544972970086187}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4942594225013780}
   - component: {fileID: 33251137335744936}
   - component: {fileID: 23100767271847084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4305438784527030}
   - component: {fileID: 33079765026619082}
   - component: {fileID: 23210453928797522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 33180427407413170}
   - component: {fileID: 23729200033049982}
   - component: {fileID: 588022783134512933}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SoderhamnLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4633079666416564}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 4569851470735702}
   - component: {fileID: 33498612614656988}
   - component: {fileID: 23475874945531782}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 4650405704606942}
   - component: {fileID: 33844327481473844}
   - component: {fileID: 23486048335916732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 4351296665362318}
   - component: {fileID: 33870060663196644}
   - component: {fileID: 23459463064699084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -556,7 +556,7 @@ GameObject:
   - component: {fileID: 4988010115715144}
   - component: {fileID: 33280175606568502}
   - component: {fileID: 23388138314605688}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Soderhamn_Pillows2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -637,7 +637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5537400692852924129}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -669,7 +669,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8230023014648615958}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -701,7 +701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1668775084379493326}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -733,7 +733,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5859357373235512956}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PillowsLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -772,7 +772,7 @@ GameObject:
   - component: {fileID: 2476015800915881807}
   - component: {fileID: 7840222568819901761}
   - component: {fileID: 5765331285371006234}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SoderhamnLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -855,7 +855,7 @@ GameObject:
   - component: {fileID: 1400801327509820283}
   - component: {fileID: 1422368051265883548}
   - component: {fileID: 6014888577833517864}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SoderhamnLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -931,7 +931,7 @@ GameObject:
   - component: {fileID: 469483587490529126}
   - component: {fileID: 1427016819987634299}
   - component: {fileID: 3081187331209153852}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SoderhamnLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
