@@ -16,7 +16,7 @@ scopes = {
 	"last_search.7BEC51F9" = ""
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "h: t:meshfilter p(mesh)=\"none\""
+	"last_search.8788AF05" = "t:meshRenderer p(m_Materials.Array.data[0])==none"
 	"OpenInspectorPreview.8788AF05" = "0"
 	"currentGroup.8788AF05" = "scene"
 	"last_search.8440E7BB" = ""
