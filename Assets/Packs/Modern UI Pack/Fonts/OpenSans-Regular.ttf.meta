@@ -1,15 +1,13 @@
 fileFormatVersion: 2
 guid: 5997fe0be3eb5fd40810e50d6cabb652
-timeCreated: 1493563541
-licenseType: Store
 TrueTypeFontImporter:
+  externalObjects: {}
   serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
-  includeFontData: 1
-  fontName: Open Sans
+  includeFontData: 0
   fontNames:
   - Open Sans
   fallbackFontReferences:
@@ -20,6 +18,8 @@ TrueTypeFontImporter:
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
