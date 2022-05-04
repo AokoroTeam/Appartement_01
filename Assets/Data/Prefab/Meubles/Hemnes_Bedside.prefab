@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33488017370109368}
   - component: {fileID: 23922798602635126}
   - component: {fileID: 1520834326779467954}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Bedside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4798716232884380}
   - component: {fileID: 8736777068321382966}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Bedside
   m_TagString: Untagged
   m_Icon: {fileID: 0}

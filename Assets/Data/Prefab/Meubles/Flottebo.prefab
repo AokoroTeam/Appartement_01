@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4616880466592688}
   - component: {fileID: 33699632372176378}
   - component: {fileID: 23615368007405914}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33080780865866614}
   - component: {fileID: 23400016350473726}
   - component: {fileID: 4705444425943703658}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_SofaLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 4407081260743268}
   - component: {fileID: 33534205384737102}
   - component: {fileID: 23350826571629240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4149796963733684}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 4166938833034728}
   - component: {fileID: 33774813043179774}
   - component: {fileID: 23806821153477004}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_2_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,7 +388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4674312334967101264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -422,7 +422,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6285171612336883785}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -456,7 +456,7 @@ GameObject:
   - component: {fileID: 3184151468843336055}
   - component: {fileID: 2922426567491451722}
   - component: {fileID: 1325645431077040636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -539,7 +539,7 @@ GameObject:
   - component: {fileID: 1205625848015587594}
   - component: {fileID: 3684436761909629768}
   - component: {fileID: 1045798649750750039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_2_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -622,7 +622,7 @@ GameObject:
   - component: {fileID: 5245228333673786133}
   - component: {fileID: 6402759471629434614}
   - component: {fileID: 7940464357988959379}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -703,7 +703,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9105692061838852845}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -737,7 +737,7 @@ GameObject:
   - component: {fileID: 363924915253295766}
   - component: {fileID: 3259772354828806463}
   - component: {fileID: 7531497534375887894}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_SofaLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -820,7 +820,7 @@ GameObject:
   - component: {fileID: 8983717179012989356}
   - component: {fileID: 1787535883685524827}
   - component: {fileID: 4826505060492320917}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_SofaLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -901,7 +901,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 104604808492003791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -935,7 +935,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2554598923945375618}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -971,7 +971,7 @@ GameObject:
   - component: {fileID: 873065187257412189}
   - component: {fileID: 563052667224725561}
   - component: {fileID: 701033087273004168}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1054,7 +1054,7 @@ GameObject:
   - component: {fileID: 4285382728369933499}
   - component: {fileID: 6497703885621191024}
   - component: {fileID: 3887921829967306920}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1136,7 +1136,7 @@ GameObject:
   - component: {fileID: 297004347095979629}
   - component: {fileID: 2641729439907464118}
   - component: {fileID: 2836488455557252544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_2_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1217,7 +1217,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3148696606513545907}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1251,7 +1251,7 @@ GameObject:
   - component: {fileID: 9019496021197970265}
   - component: {fileID: 701543388494317935}
   - component: {fileID: 1283356500088730524}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_PillowsLOD_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1334,7 +1334,7 @@ GameObject:
   - component: {fileID: 6268079692478694697}
   - component: {fileID: 840326398682659028}
   - component: {fileID: 915948307485722506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flottebo_SofaLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33548316974389282}
   - component: {fileID: 23318017854159900}
   - component: {fileID: 7280561208580006002}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4982321474724292}
   - component: {fileID: 7282654386512025506}
   - component: {fileID: 3279169900943192078}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   - component: {fileID: 4539719061171652}
   - component: {fileID: 33338382722362462}
   - component: {fileID: 23687455899314172}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -268,7 +268,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3551564389514184406}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -303,7 +303,7 @@ GameObject:
   - component: {fileID: 523646248660775081}
   - component: {fileID: 2234354728120404978}
   - component: {fileID: 6547915828283661386}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3980603217868650790}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -419,7 +419,7 @@ GameObject:
   - component: {fileID: 291740679652914619}
   - component: {fileID: 5979667046615056857}
   - component: {fileID: 3149960593162470232}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 2230439409914339403}
   - component: {fileID: 732704976325469945}
   - component: {fileID: 83025565021549720}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -583,7 +583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8807189100580643579}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -618,7 +618,7 @@ GameObject:
   - component: {fileID: 2038343517779666246}
   - component: {fileID: 2220093890051690267}
   - component: {fileID: 3829767797657584242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hallstavik_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4326245076736060}
   - component: {fileID: 33339412011420722}
   - component: {fileID: 23870952996736952}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stocksund_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4591839537458266}
   - component: {fileID: 6677309817758452724}
   - component: {fileID: 528607004441126635}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stocksund
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7456689075254924111}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,7 +200,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5846839702659299468}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -232,7 +232,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8974668228877781121}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -266,7 +266,7 @@ GameObject:
   - component: {fileID: 6248928017205933475}
   - component: {fileID: 2149642793745862173}
   - component: {fileID: 6390342138956123722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stocksund_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -349,7 +349,7 @@ GameObject:
   - component: {fileID: 2392359196709734899}
   - component: {fileID: 5023114409059693732}
   - component: {fileID: 4133936830345493804}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stocksund_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

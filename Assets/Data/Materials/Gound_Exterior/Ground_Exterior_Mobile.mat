@@ -208,7 +208,7 @@ Material:
     - _RoughScale: 0
     - _Scale: 0.1
     - _ScatteringPower: 0.1
-    - _Smoothness: 1
+    - _Smoothness: 0.428
     - _SmoothnessTextureChannel: 0
     - _Smothness: 0
     - _Specular: 0

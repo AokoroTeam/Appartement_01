@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33139303104590478}
   - component: {fileID: 23149155710423106}
   - component: {fileID: 1851705347617721976}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selje
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4204368243269654}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Selje
   m_TagString: Untagged
   m_Icon: {fileID: 0}

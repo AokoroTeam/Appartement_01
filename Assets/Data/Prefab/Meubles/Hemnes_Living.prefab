@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4260012520197456}
   - component: {fileID: 33895989750937674}
   - component: {fileID: 23700432450215754}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Living_Glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33088098132466458}
   - component: {fileID: 23421798587598036}
   - component: {fileID: 7968954774778393108}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_LivingLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4765340137524556}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Living
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 1026104398488091824}
   - component: {fileID: 9195732420703932738}
   - component: {fileID: 316704009003870238}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_LivingLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -305,7 +305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6910848368624785506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -337,7 +337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8093712463421750872}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 3792730514441098099}
   - component: {fileID: 2910907454375175402}
   - component: {fileID: 6325480644252962043}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_LivingLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 935879181674698845}
   - component: {fileID: 1201045885087186885}
   - component: {fileID: 1175136271250619346}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_LivingLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -528,7 +528,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8031255919358816753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

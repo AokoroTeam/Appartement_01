@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33498417510947868}
   - component: {fileID: 23411474722273436}
   - component: {fileID: 192416882616131242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ShowerLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4822386446385612}
   - component: {fileID: 33885235615550888}
   - component: {fileID: 23937995094114934}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Shower_Glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4640857644968086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Shower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 3174832771453081879}
   - component: {fileID: 6314701949974228029}
   - component: {fileID: 2908179190707973101}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ShowerLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -305,7 +305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7381098369332079847}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -339,7 +339,7 @@ GameObject:
   - component: {fileID: 5422980225509628501}
   - component: {fileID: 3133240748724948794}
   - component: {fileID: 3131953723878514624}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ShowerLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -413,7 +413,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4206096794824511226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -445,7 +445,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5205209378636461165}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 2184182217976681648}
   - component: {fileID: 6103919551170135084}
   - component: {fileID: 653120717045088338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ShowerLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

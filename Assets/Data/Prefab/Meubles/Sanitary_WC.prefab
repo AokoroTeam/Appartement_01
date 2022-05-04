@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33340845131784538}
   - component: {fileID: 23055723661862938}
   - component: {fileID: 5112854250106466119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_WC_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4969669499614264}
   - component: {fileID: 4395184050403314886}
   - component: {fileID: 742008933234014060}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_WC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1231769269633920897}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7272727265967902626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -246,7 +246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2345221575462026415}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -280,7 +280,7 @@ GameObject:
   - component: {fileID: 7297593940634832272}
   - component: {fileID: 7087655250505661933}
   - component: {fileID: 3412408566006955636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_WC_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 53239090914025733}
   - component: {fileID: 1172868936163010572}
   - component: {fileID: 4460752042309884073}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_WC_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

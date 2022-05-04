@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4906692018693890}
   - component: {fileID: 3289450600275180939}
   - component: {fileID: 1881274104389306590}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Burvik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33573210561516192}
   - component: {fileID: 23923658262468620}
   - component: {fileID: 2124984198523207382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Burvik_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138,7 +138,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a4166324ea1dbd64d9a6082e119772e1, type: 2}
+  - {fileID: 2100000, guid: 0bd11cf666c6ee041b14dff3f655975d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2363360353178209410}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7114534872809156300}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -246,7 +246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2042078093894040380}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -280,7 +280,7 @@ GameObject:
   - component: {fileID: 2448096771818864494}
   - component: {fileID: 4784463601276242176}
   - component: {fileID: 4057894361174974784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Burvik_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -330,7 +330,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a4166324ea1dbd64d9a6082e119772e1, type: 2}
+  - {fileID: 2100000, guid: 0bd11cf666c6ee041b14dff3f655975d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 1043706912321267294}
   - component: {fileID: 8811406471333901218}
   - component: {fileID: 7397826606578430727}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Burvik_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -413,7 +413,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a4166324ea1dbd64d9a6082e119772e1, type: 2}
+  - {fileID: 2100000, guid: 0bd11cf666c6ee041b14dff3f655975d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

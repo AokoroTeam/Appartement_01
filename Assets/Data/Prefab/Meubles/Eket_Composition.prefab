@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4907479738627370}
   - component: {fileID: 33276008592004110}
   - component: {fileID: 23776848275502822}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_4X4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52,7 +52,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d20a1831f43e0c24eacdd30cc1e95be9, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4483594079211878}
   - component: {fileID: 33789563749374744}
   - component: {fileID: 23014466558215830}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -135,7 +135,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -144,7 +144,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 4077883812613192}
   - component: {fileID: 33523783597553924}
   - component: {fileID: 23310882284775310}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Base_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +218,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -227,7 +227,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 4915711017956574}
   - component: {fileID: 33980934582983740}
   - component: {fileID: 23311735448639748}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -301,7 +301,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -310,7 +310,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1001467408baa4d46912016017cce02d, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 4125612292957636}
   - component: {fileID: 33275589975278832}
   - component: {fileID: 23497302148207316}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Base_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -393,7 +393,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -426,7 +426,7 @@ GameObject:
   - component: {fileID: 4875293722755236}
   - component: {fileID: 33860156370531374}
   - component: {fileID: 23350173747988246}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Door_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -467,7 +467,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -476,7 +476,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 4739777904370158}
   - component: {fileID: 33569909267018708}
   - component: {fileID: 23518176521004006}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_4X4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -550,7 +550,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -559,7 +559,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d20a1831f43e0c24eacdd30cc1e95be9, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: 4219389873263640}
   - component: {fileID: 33637671410848040}
   - component: {fileID: 23864164854183270}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -633,7 +633,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -642,7 +642,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1001467408baa4d46912016017cce02d, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -673,7 +673,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4835029278306078}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Eket_Composition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -727,7 +727,7 @@ GameObject:
   - component: {fileID: 4323666806079188}
   - component: {fileID: 33207776037917838}
   - component: {fileID: 23900388188189420}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_4X4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -768,7 +768,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -777,7 +777,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d20a1831f43e0c24eacdd30cc1e95be9, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -811,7 +811,7 @@ GameObject:
   - component: {fileID: 33278902808192470}
   - component: {fileID: 23621305896585118}
   - component: {fileID: 8578302519081603632}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -852,7 +852,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -861,7 +861,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -907,7 +907,7 @@ GameObject:
   - component: {fileID: 4926902023727166}
   - component: {fileID: 33005190864677396}
   - component: {fileID: 23461298245237266}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Door_2X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -948,7 +948,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -957,7 +957,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -990,7 +990,7 @@ GameObject:
   - component: {fileID: 4232566478176040}
   - component: {fileID: 33273163286025788}
   - component: {fileID: 23661964256330648}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1031,7 +1031,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1040,7 +1040,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1073,7 +1073,7 @@ GameObject:
   - component: {fileID: 4192991526523388}
   - component: {fileID: 33407440126364966}
   - component: {fileID: 23708944081437878}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1114,7 +1114,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1123,7 +1123,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1156,7 +1156,7 @@ GameObject:
   - component: {fileID: 4673548807414768}
   - component: {fileID: 33281906666965388}
   - component: {fileID: 23157340497683458}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1197,7 +1197,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1206,7 +1206,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1239,7 +1239,7 @@ GameObject:
   - component: {fileID: 4427848791217510}
   - component: {fileID: 33628557853592360}
   - component: {fileID: 23562688719842086}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Door_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1280,7 +1280,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1289,7 +1289,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1322,7 +1322,7 @@ GameObject:
   - component: {fileID: 4705650961952824}
   - component: {fileID: 33582107816459524}
   - component: {fileID: 23243279951939810}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Door_2X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1363,7 +1363,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1372,7 +1372,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1405,7 +1405,7 @@ GameObject:
   - component: {fileID: 4593183757840570}
   - component: {fileID: 33706792555977500}
   - component: {fileID: 23194982639846482}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1446,7 +1446,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1455,7 +1455,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1488,7 +1488,7 @@ GameObject:
   - component: {fileID: 4878275705795338}
   - component: {fileID: 33507723476369068}
   - component: {fileID: 23230221888507382}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_Door_2X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1529,7 +1529,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1538,7 +1538,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1571,7 +1571,7 @@ GameObject:
   - component: {fileID: 4190545160685098}
   - component: {fileID: 33273588890604248}
   - component: {fileID: 23139843038336754}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1612,7 +1612,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1621,7 +1621,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1654,7 +1654,7 @@ GameObject:
   - component: {fileID: 4489352495755842}
   - component: {fileID: 33608391584508346}
   - component: {fileID: 23079842961817134}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1695,7 +1695,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1704,7 +1704,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1001467408baa4d46912016017cce02d, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1737,7 +1737,7 @@ GameObject:
   - component: {fileID: 4902216539361664}
   - component: {fileID: 33959869507585090}
   - component: {fileID: 23065379656967726}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Eket_1X1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1778,7 +1778,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1787,7 +1787,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9bf0afc4a64edf447bd1644771d59d62, type: 2}
+  - {fileID: 2100000, guid: 6a04fbd51514754449f94b242f2a67d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4753734051752648}
   - component: {fileID: 4625564309054405893}
   - component: {fileID: 4598860967902340199}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Batroom_Stair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 33865372836447772}
   - component: {fileID: 23743609000773770}
   - component: {fileID: 3384437086156855702}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Batroom_Stair_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -188,7 +188,7 @@ GameObject:
   - component: {fileID: 7511690941674638372}
   - component: {fileID: 4989225874040730561}
   - component: {fileID: 710306581804777825}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Batroom_Stair_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6051672393536753265}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -301,7 +301,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1283170737382634889}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -333,7 +333,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 547758896462795125}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 6401411073596906563}
   - component: {fileID: 1355162891318511966}
   - component: {fileID: 6260797680260616202}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hemnes_Batroom_Stair_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -446,9 +446,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4753734051752648}
     m_Modifications:
+    - target: {fileID: 1066801030992898, guid: 0cb25a2886779f145b799bc7a35c8087, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1200656920528644, guid: 0cb25a2886779f145b799bc7a35c8087, type: 3}
       propertyPath: m_Name
       value: Towel3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1200656920528644, guid: 0cb25a2886779f145b799bc7a35c8087, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4112005509045758, guid: 0cb25a2886779f145b799bc7a35c8087, type: 3}
       propertyPath: m_RootOrder
@@ -508,9 +516,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4753734051752648}
     m_Modifications:
+    - target: {fileID: 1423514279914172, guid: ca2cd78212c0d3c46ad4588f04ed936d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1650274864532178, guid: ca2cd78212c0d3c46ad4588f04ed936d, type: 3}
       propertyPath: m_Name
       value: Towel4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650274864532178, guid: ca2cd78212c0d3c46ad4588f04ed936d, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4922783706496054, guid: ca2cd78212c0d3c46ad4588f04ed936d, type: 3}
       propertyPath: m_RootOrder
@@ -574,6 +590,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Towel1
       objectReference: {fileID: 0}
+    - target: {fileID: 1651197315412842, guid: 13281f97f72809c41a30ee0f0454a04b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1668026405132568, guid: 13281f97f72809c41a30ee0f0454a04b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4964090770659348, guid: 13281f97f72809c41a30ee0f0454a04b, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -635,6 +659,14 @@ PrefabInstance:
     - target: {fileID: 1422784235743128, guid: 96c520d83f9111648a931f6a5757c94a, type: 3}
       propertyPath: m_Name
       value: Towel2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1422784235743128, guid: 96c520d83f9111648a931f6a5757c94a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1697827176235722, guid: 96c520d83f9111648a931f6a5757c94a, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4868593023023404, guid: 96c520d83f9111648a931f6a5757c94a, type: 3}
       propertyPath: m_RootOrder

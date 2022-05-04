@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4086329326735034}
   - component: {fileID: 33347387954045834}
   - component: {fileID: 23624901198724620}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stones1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52,7 +52,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4562395272469818}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stones1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

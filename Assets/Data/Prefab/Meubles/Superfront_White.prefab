@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4330265291412938}
   - component: {fileID: 33599105594469836}
   - component: {fileID: 23423213809516216}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront_Mirror
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33078581958182674}
   - component: {fileID: 23531246128991838}
   - component: {fileID: 3806121438327089500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4592338490841116}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Superfront_White
   m_TagString: Untagged
   m_Icon: {fileID: 0}

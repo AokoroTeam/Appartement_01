@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4664860351953020}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Hood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 33400201857750880}
   - component: {fileID: 23076938224755114}
   - component: {fileID: 677013713376839797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Hood
   m_TagString: Untagged
   m_Icon: {fileID: 0}

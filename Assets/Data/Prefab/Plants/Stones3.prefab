@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4588285674901584}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stones3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4036578629339784}
   - component: {fileID: 33916673207192246}
   - component: {fileID: 23167893626285328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stones3
   m_TagString: Untagged
   m_Icon: {fileID: 0}

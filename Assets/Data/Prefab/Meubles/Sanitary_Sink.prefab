@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4803098831922664}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sanitary_Sink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 33713720951744784}
   - component: {fileID: 23859873505433200}
   - component: {fileID: 2442393784670469738}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sink
   m_TagString: Untagged
   m_Icon: {fileID: 0}

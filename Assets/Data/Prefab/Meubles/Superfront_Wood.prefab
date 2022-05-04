@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4474972176534776}
   - component: {fileID: 33003202859256260}
   - component: {fileID: 23278447540804328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront_MirrorLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33385641897139352}
   - component: {fileID: 23087001264272582}
   - component: {fileID: 8063767839634735592}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_SuperfrontLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4667929247793950}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Superfront_Wood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 4460661002557681016}
   - component: {fileID: 6135099754419504501}
   - component: {fileID: 693365312794050308}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_SuperfrontLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -298,7 +298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2831864420320991913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -330,7 +330,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4645863391280733886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -362,7 +362,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2077331461214936418}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -396,7 +396,7 @@ GameObject:
   - component: {fileID: 6916977583859095837}
   - component: {fileID: 7660081315430430737}
   - component: {fileID: 3698700249803903233}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront_MirrorLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 6657110024376957007}
   - component: {fileID: 6904261672872523678}
   - component: {fileID: 8445294654986355735}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_SuperfrontLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -562,7 +562,7 @@ GameObject:
   - component: {fileID: 5249263795768027458}
   - component: {fileID: 8187348776437632470}
   - component: {fileID: 7971182715046422682}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_SuperfrontLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -645,7 +645,7 @@ GameObject:
   - component: {fileID: 8940232819918532528}
   - component: {fileID: 5001063733998084973}
   - component: {fileID: 2450064219381699616}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront_MirrorLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -719,7 +719,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7072937923446704367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -753,7 +753,7 @@ GameObject:
   - component: {fileID: 2129048762606008318}
   - component: {fileID: 3570264996463326884}
   - component: {fileID: 7406420126876273341}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ikea_Superfront_MirrorLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -834,7 +834,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4314936402352753838}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -866,7 +866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6182999006923516898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
