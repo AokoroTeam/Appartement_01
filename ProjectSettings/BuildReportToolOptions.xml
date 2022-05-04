@@ -50,8 +50,8 @@
   <ShowTextureColumnCompressionQuality>false</ShowTextureColumnCompressionQuality>
   <ShowTextureColumnImportedWidthAndHeight>true</ShowTextureColumnImportedWidthAndHeight>
   <ShowTextureColumnRealWidthAndHeight>false</ShowTextureColumnRealWidthAndHeight>
-  <ShowColumnAssetPath>true</ShowColumnAssetPath>
-  <ShowColumnSizeBeforeBuild>true</ShowColumnSizeBeforeBuild>
+  <ShowColumnAssetPath>false</ShowColumnAssetPath>
+  <ShowColumnSizeBeforeBuild>false</ShowColumnSizeBeforeBuild>
   <ShowColumnSizeInBuild>true</ShowColumnSizeInBuild>
   <ShowColumnUnusedRawSize>true</ShowColumnUnusedRawSize>
   <ShowColumnUnusedImportedSize>true</ShowColumnUnusedImportedSize>
