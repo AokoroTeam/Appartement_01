@@ -16,9 +16,9 @@ scopes = {
 	"last_search.7BEC51F9" = ""
 	"OpenInspectorPreview.7BEC51F9" = "0"
 	"currentGroup.7BEC51F9" = "asset"
-	"last_search.8788AF05" = "h: t:prefab ref"
+	"last_search.8788AF05" = "h: prefab:model"
 	"OpenInspectorPreview.8788AF05" = "0"
-	"currentGroup.8788AF05" = "all"
+	"currentGroup.8788AF05" = "scene"
 	"last_search.8440E7BB" = ""
 	"OpenInspectorPreview.8440E7BB" = "0"
 	"currentGroup.8440E7BB" = "all"
@@ -28,7 +28,7 @@ scopes = {
 	"last_search.9440E7BB" = ""
 	"OpenInspectorPreview.9440E7BB" = "0"
 	"currentGroup.9440E7BB" = "all"
-	"last_search.4ABD0115" = ""
+	"last_search.4ABD0115" = "t:material"
 	"OpenInspectorPreview.4ABD0115" = "0"
 	"currentGroup.4ABD0115" = "all"
 }
@@ -100,10 +100,17 @@ providers = {
 	}
 }
 recentSearches = [
+	"t:pr "
+	"p: "
+	"t"
+	"ref:52080:Assets/Data/Meshes/Books/Books.FBX"
+	"h: ref:Assets/Data/Meshes/Books/Books.FBX"
+	"h: ref:m_Mesh"
+	"h: layer:\""
+	"h: layer:"
+	"h"
 	"t:texture"
 	"."
-	"t"
-	"h"
 	"h: t:prefab }"
 	"t:prefab ref={t:texture size>4000}"
 	"t:texture size>4000}"
@@ -113,12 +120,6 @@ recentSearches = [
 	"find: "
 	"apply{}"
 	"*"
-	"t:MeshCo"
-	"t:MeshCollider"
-	"t:Mesh"
-	"Ke"
-	":\"kitchen\""
-	"h: t:"
 ]
 searchItemFavorites = [
 ]

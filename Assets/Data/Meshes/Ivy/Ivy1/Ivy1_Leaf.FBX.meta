@@ -1,47 +1,8 @@
 fileFormatVersion: 2
-guid: 93ed93e99964f4f4bbc3d14254ba467d
+guid: 9d02ff925f5c035478701f58724789a1
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: Ivy1
-  - first:
-      1: 100002
-    second: Ivy1 1
-  - first:
-      1: 100004
-    second: //RootNode
-  - first:
-      4: 400000
-    second: Ivy1
-  - first:
-      4: 400002
-    second: Ivy1 1
-  - first:
-      4: 400004
-    second: //RootNode
-  - first:
-      23: 2300000
-    second: Ivy1
-  - first:
-      23: 2300002
-    second: Ivy1 1
-  - first:
-      33: 3300000
-    second: Ivy1
-  - first:
-      33: 3300002
-    second: Ivy1 1
-  - first:
-      43: 4300000
-    second: Ivy1
-  - first:
-      43: 4300002
-    second: Ivy1
-  - first:
-      95: 9500000
-    second: //RootNode
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -89,7 +50,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     nodeNameCollisionStrategy: 0
-    fileIdsGeneration: 1
+    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1

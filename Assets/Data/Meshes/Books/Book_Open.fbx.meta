@@ -1,53 +1,8 @@
 fileFormatVersion: 2
-guid: 5ee959f5c70ea4f468fe7741d2f75f67
+guid: 24f93b9a2b48601468d11850cf11fb22
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: //RootNode
-  - first:
-      1: 100002
-    second: Ground_Courtyard1
-  - first:
-      1: 100004
-    second: Ground_Courtyard2
-  - first:
-      4: 400000
-    second: //RootNode
-  - first:
-      4: 400002
-    second: Ground_Courtyard1
-  - first:
-      4: 400004
-    second: Ground_Courtyard2
-  - first:
-      21: 2100000
-    second: 01 - Default
-  - first:
-      23: 2300000
-    second: Ground_Courtyard1
-  - first:
-      23: 2300002
-    second: Ground_Courtyard2
-  - first:
-      33: 3300000
-    second: Ground_Courtyard1
-  - first:
-      33: 3300002
-    second: Ground_Courtyard2
-  - first:
-      43: 4300000
-    second: Ground_Courtyard2
-  - first:
-      43: 4300002
-    second: Ground_Courtyard1
-  - first:
-      74: 7400000
-    second: Take 001
-  - first:
-      95: 9500000
-    second: //RootNode
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -87,7 +42,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 3
-    addColliders: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0
@@ -95,7 +50,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     nodeNameCollisionStrategy: 0
-    fileIdsGeneration: 1
+    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1

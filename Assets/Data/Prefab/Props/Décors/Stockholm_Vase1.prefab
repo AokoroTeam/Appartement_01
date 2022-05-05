@@ -25,9 +25,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1324204114973746}
-  m_LocalRotation: {x: -0.5000001, y: -0.5000001, z: -0.5, w: 0.49999985}
-  m_LocalPosition: {x: -0.0000000074505566, y: -0.00000011920929, z: -0.00000017881405}
-  m_LocalScale: {x: 1.0000002, y: 1.0000004, z: 1}
+  m_LocalRotation: {x: -0.5000002, y: -0.5000001, z: -0.5, w: 0.49999982}
+  m_LocalPosition: {x: -0.000000007450555, y: -0.00000011920929, z: -0.00000017881413}
+  m_LocalScale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3655086536195418275}
@@ -69,7 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
+  m_ReceiveGI: 2
   m_PreserveUVs: 1
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -292,7 +292,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 0.053329896
-  m_ReceiveGI: 1
+  m_ReceiveGI: 2
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -407,7 +407,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 0.06853275
-  m_ReceiveGI: 1
+  m_ReceiveGI: 2
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0

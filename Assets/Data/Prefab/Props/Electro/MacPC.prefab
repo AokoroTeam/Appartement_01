@@ -58,8 +58,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959735163185516}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.1024259, y: 0.25284088, z: -0.18214066}
-  m_Size: 0.6515746
+  m_LocalReferencePoint: {x: 0.10243803, y: 0.25291684, z: -0.18215658}
+  m_Size: 0.6516422
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
@@ -216,6 +216,7 @@ GameObject:
   - component: {fileID: 2525982519429568520}
   - component: {fileID: 2525982519426701352}
   - component: {fileID: 2525982519427799784}
+  - component: {fileID: 162007550}
   m_Layer: 3
   m_Name: MacPC_0_LOD_0
   m_TagString: Untagged
@@ -288,6 +289,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &162007550
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2525982519429792808}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.6516397, y: 0.5269676, z: 0.20574567}
+  m_Center: {x: 0, y: 0.2519018, z: 0.022061277}
 --- !u!1 &3439207316564228613
 GameObject:
   m_ObjectHideFlags: 0
