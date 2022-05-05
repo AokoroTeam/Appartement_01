@@ -51,10 +51,10 @@
   <ShowTextureColumnImportedWidthAndHeight>true</ShowTextureColumnImportedWidthAndHeight>
   <ShowTextureColumnRealWidthAndHeight>false</ShowTextureColumnRealWidthAndHeight>
   <ShowColumnAssetPath>false</ShowColumnAssetPath>
-  <ShowColumnSizeBeforeBuild>true</ShowColumnSizeBeforeBuild>
+  <ShowColumnSizeBeforeBuild>false</ShowColumnSizeBeforeBuild>
   <ShowColumnSizeInBuild>true</ShowColumnSizeInBuild>
-  <ShowColumnUnusedRawSize>true</ShowColumnUnusedRawSize>
-  <ShowColumnUnusedImportedSize>true</ShowColumnUnusedImportedSize>
+  <ShowColumnUnusedRawSize>false</ShowColumnUnusedRawSize>
+  <ShowColumnUnusedImportedSize>false</ShowColumnUnusedImportedSize>
   <SearchType>100</SearchType>
   <SearchFilenameOnly>true</SearchFilenameOnly>
   <SearchCaseSensitive>false</SearchCaseSensitive>

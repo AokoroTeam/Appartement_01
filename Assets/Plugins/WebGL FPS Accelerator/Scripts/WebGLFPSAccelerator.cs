@@ -99,11 +99,13 @@ namespace AG_WebGLFPSAccelerator
         void Start()
         {
             requestDefaultDPR();
+            if (ShowHideUI)
+            {
 
-            Toggle1.isOn = dynamicResolutionSystem;
-            Toggle2.isOn = useRenderScaleURP;
-            webglFpsAcceleratorInGameUI.transform.parent.gameObject.GetComponent<Canvas>().enabled = ShowHideUI;
-
+                Toggle1.isOn = dynamicResolutionSystem;
+                Toggle2.isOn = useRenderScaleURP;
+                webglFpsAcceleratorInGameUI.transform.parent.gameObject.GetComponent<Canvas>().enabled = ShowHideUI;
+            }
             Invoke("waitForOneSecond", 1);
 
 #if USING_URP
@@ -111,9 +113,12 @@ namespace AG_WebGLFPSAccelerator
             urpAsset = (UniversalRenderPipelineAsset)rpAsset;
 
             urp = true;
-            Toggle2.transform.parent.gameObject.SetActive(true);
-            RectTransform rt = webglFpsAcceleratorInGameUI.GetComponent<RectTransform>();
-            rt.sizeDelta = new Vector2(rt.sizeDelta.x, 580);
+            if (ShowHideUI)
+            {
+                Toggle2.transform.parent.gameObject.SetActive(true);
+                RectTransform rt = webglFpsAcceleratorInGameUI.GetComponent<RectTransform>();
+                rt.sizeDelta = new Vector2(rt.sizeDelta.x, 580);
+            }
 #endif
         }
 
@@ -199,9 +204,11 @@ namespace AG_WebGLFPSAccelerator
                     if (dynamicResolutionSystem != lastDynamicResolutionSystem || dpr == 0)
                     {
                         lastDynamicResolutionSystem = dynamicResolutionSystem;
-
-                        fixedDPIUIElement.SetActive(true);
-                        dpiUIElement.SetActive(false);
+                        if (ShowHideUI)
+                        {
+                            fixedDPIUIElement.SetActive(true);
+                            dpiUIElement.SetActive(false);
+                        }
 
                         lastDPR = 0;
                     }
@@ -239,9 +246,11 @@ namespace AG_WebGLFPSAccelerator
                         lastDynamicResolutionSystem = dynamicResolutionSystem;
                         m_FpsNextPeriod = Time.realtimeSinceStartup + measurePeriod;
                         m_FpsAccumulator = 0;
-
-                        fixedDPIUIElement.SetActive(false);
-                        dpiUIElement.SetActive(true);
+                        if (ShowHideUI)
+                        {
+                            fixedDPIUIElement.SetActive(false);
+                            dpiUIElement.SetActive(true);
+                        }
 
                         lastDPR = 0;
                     }
@@ -251,14 +260,17 @@ namespace AG_WebGLFPSAccelerator
             }
 
             dpi = (float)Math.Round(dpi * 100f) / 100f;
-            dpi_TMP_Text.text = dpi.ToString();
-
-            updateUI();
-
-            if (ShowHideUI != lastShowHideUI)
+            if (ShowHideUI)
             {
-                webglFpsAcceleratorInGameUI.transform.parent.gameObject.GetComponent<Canvas>().enabled = ShowHideUI;
-                lastShowHideUI = ShowHideUI;
+                dpi_TMP_Text.text = dpi.ToString();
+
+                updateUI();
+
+                if (ShowHideUI != lastShowHideUI)
+                {
+                    webglFpsAcceleratorInGameUI.transform.parent.gameObject.GetComponent<Canvas>().enabled = ShowHideUI;
+                    lastShowHideUI = ShowHideUI;
+                }
             }
         }
 
