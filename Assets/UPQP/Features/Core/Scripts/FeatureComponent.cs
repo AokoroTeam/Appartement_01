@@ -15,7 +15,7 @@ namespace UPQP.Features
 
         private void Feature_InitiateFeatureComponents(Feature feature)
         {
-            if(feature == _Feature)
+            if (feature == _Feature)
             {
                 Feature.InitiateFeatureComponents -= Feature_InitiateFeatureComponents;
                 OnFeatureComponentInitiate();

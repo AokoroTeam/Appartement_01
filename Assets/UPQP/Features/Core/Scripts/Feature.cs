@@ -6,6 +6,15 @@ using UPQP.Managers;
 
 namespace UPQP.Features
 {
+    public abstract class Feature<T, U> : Feature where T : Feature where U : FeatureData<T>
+    {
+        protected U Data;
+
+        public Feature(U data)
+        {
+            Data = data;
+        }
+    }
     public abstract class Feature
     {
         public bool IsActive;

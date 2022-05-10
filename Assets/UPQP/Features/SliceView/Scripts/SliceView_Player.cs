@@ -32,7 +32,6 @@ namespace UPQP.Features.SliceView
         [SerializeField, BoxGroup("move")]
         private int recenterSpeed;
 
-
         private CinemachineFollowZoom zoomComponent;
         private Transform cameraCenter;
         private Bounds LevelBounds;
@@ -57,9 +56,9 @@ namespace UPQP.Features.SliceView
         {
             base.Start();
 
-            vCam = _Feature.Manager.virtualCamera.GetCinemachineComponent<CinemachineOrbitalTransposer>();
+            vCam = _Feature.References.virtualCamera.GetCinemachineComponent<CinemachineOrbitalTransposer>();
             zoomComponent = vCam.VirtualCamera.GetComponent<CinemachineFollowZoom>();
-            cameraCenter = _Feature.Manager.cameraCenter;
+            cameraCenter = _Feature.References.cameraCenter;
 
             zoomComponent.m_MinFOV = zoom.x;
             zoomComponent.m_MaxFOV = zoom.y;
@@ -76,7 +75,7 @@ namespace UPQP.Features.SliceView
             }
 
             if (LevelBounds == null)
-                LevelBounds = _Feature.Manager.GetCurrentBounds();
+                LevelBounds = _Feature.GetCurrentBounds();
 
             cameraCenter.position = LevelBounds.center;
             CenterPosition = LevelBounds.center;
