@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.pureweb.platform": "file:D:/Unity/Assets/com.pureweb.platform-1.9.8.tgz",
     "com.unity.analytics": "3.6.12",
     "com.unity.animation.rigging": "1.1.1",
     "com.unity.cinemachine": "2.6.11",
