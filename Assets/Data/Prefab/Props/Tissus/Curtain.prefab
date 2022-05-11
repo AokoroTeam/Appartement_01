@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 4966662318406976}
   - component: {fileID: 8354211478807522719}
   - component: {fileID: 6907603662264251562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &4966662318406976
 Transform:
@@ -90,12 +90,12 @@ GameObject:
   - component: {fileID: 4926607104027298}
   - component: {fileID: 33796658861563478}
   - component: {fileID: 23780136077607610}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &4926607104027298
 Transform:
@@ -173,12 +173,12 @@ GameObject:
   - component: {fileID: 4543788410397594}
   - component: {fileID: 33855297539248920}
   - component: {fileID: 23137175930477128}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &4543788410397594
 Transform:
@@ -256,12 +256,12 @@ GameObject:
   - component: {fileID: 8629433763825506431}
   - component: {fileID: 1929556391334976699}
   - component: {fileID: 8637955355538118402}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &8629433763825506431
 Transform:
@@ -337,7 +337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2294667017144738228}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -370,7 +370,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3575509359734255447}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -405,12 +405,12 @@ GameObject:
   - component: {fileID: 4138480297403052680}
   - component: {fileID: 7585524360742521007}
   - component: {fileID: 1346416864728539886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &4138480297403052680
 Transform:
@@ -488,12 +488,12 @@ GameObject:
   - component: {fileID: 5398824156162033647}
   - component: {fileID: 1765362904566985358}
   - component: {fileID: 8311142370029503241}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &5398824156162033647
 Transform:
@@ -569,7 +569,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6701110305386892622}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -604,12 +604,12 @@ GameObject:
   - component: {fileID: 4874255973249213811}
   - component: {fileID: 2385388515153085018}
   - component: {fileID: 4436344371208783503}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Curtain_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 121
   m_IsActive: 1
 --- !u!4 &4874255973249213811
 Transform:

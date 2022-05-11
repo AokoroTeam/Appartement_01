@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4774258114145442}
   - component: {fileID: 8957145926853318159}
   - component: {fileID: 3800635402843977858}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fridge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33464121122583918}
   - component: {fileID: 23009996886349146}
   - component: {fileID: 1724403800527359648}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fridge_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 7383045362699630875}
   - component: {fileID: 1825903981484398831}
   - component: {fileID: 729900654037308985}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fridge_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 289671760455126577}
   - component: {fileID: 4104083551340551527}
   - component: {fileID: 8283203981435506699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fridge_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -348,7 +348,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7701526969098442591}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1940658632149821523}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8766237507246389595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
