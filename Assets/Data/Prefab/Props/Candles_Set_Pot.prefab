@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4967848421595248}
   - component: {fileID: 33347754425395738}
   - component: {fileID: 23312074051781800}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Pot_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4741407210389178}
   - component: {fileID: 8154185439049048816}
   - component: {fileID: 4164584198630049264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Pot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1175518998892160573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -195,7 +195,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7407738213435588866}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 6710004551379015729}
   - component: {fileID: 2293161009624624147}
   - component: {fileID: 8613534934570586226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Pot_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

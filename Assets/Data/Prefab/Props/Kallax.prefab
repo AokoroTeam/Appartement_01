@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1719668642932638049}
   - component: {fileID: 1719668642932638055}
   - component: {fileID: 1719668642932638048}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Box5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1719668643958266020}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 1719668644015052831}
   - component: {fileID: 1719668644015052829}
   - component: {fileID: 1719668644015052830}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Box4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 1719668644315420836}
   - component: {fileID: 1719668644315420842}
   - component: {fileID: 1719668644315420843}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Box4
   m_TagString: Untagged
   m_Icon: {fileID: 0}

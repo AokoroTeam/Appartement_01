@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4266432894281108}
   - component: {fileID: 33010766988979610}
   - component: {fileID: 23550353530958932}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pillow4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4927000131390788}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pillows4
   m_TagString: Untagged
   m_Icon: {fileID: 0}

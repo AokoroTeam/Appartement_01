@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4788494339904774}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pillows1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4427732559816722}
   - component: {fileID: 33855871340874172}
   - component: {fileID: 23130321130502370}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pillow1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

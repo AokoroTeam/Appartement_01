@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4352392679968976}
   - component: {fileID: 5627023383669724587}
   - component: {fileID: 4692729871780458841}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kragsta_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83,7 +83,7 @@ GameObject:
   - component: {fileID: 33460767713312080}
   - component: {fileID: 23215822450054034}
   - component: {fileID: 1897318518870954967}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kragsta_Short_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 6502124877802505060}
   - component: {fileID: 7799909347846805622}
   - component: {fileID: 6714525867370433617}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kragsta_Short_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3731147878099402722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,7 +292,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2957261977403722485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

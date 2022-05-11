@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33228708916423328}
   - component: {fileID: 23556485586029166}
   - component: {fileID: 8786644708960676886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Chest_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4168837507561386}
   - component: {fileID: 3556451845011004728}
   - component: {fileID: 6702554879811130884}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1287896860661387665}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 3929826804346078488}
   - component: {fileID: 9172093389778466011}
   - component: {fileID: 7089237224336031072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Chest_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1805575325016643295}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 1964960185096090771}
   - component: {fileID: 6496875986126143963}
   - component: {fileID: 3075853065616416123}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Chest_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 232616073065758329}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

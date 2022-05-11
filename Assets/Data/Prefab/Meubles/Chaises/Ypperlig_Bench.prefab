@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33485849290547856}
   - component: {fileID: 23373343720038524}
   - component: {fileID: 7821516232880983560}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Bench_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4348576567410192}
   - component: {fileID: 5834108394607128949}
   - component: {fileID: 617404999010378021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Bench
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2590146634896119096}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3824733646979216426}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 4562743712198308370}
   - component: {fileID: 9104936616517940264}
   - component: {fileID: 8537632934605510036}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Bench_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4489697983640031139}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 3520963091622120436}
   - component: {fileID: 3046031992223156877}
   - component: {fileID: 85040486827253349}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Bench_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

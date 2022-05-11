@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4673425995945150}
   - component: {fileID: 33989873513705790}
   - component: {fileID: 23730430395761796}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sinnersro_Short_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4888776387245164}
   - component: {fileID: 3392776420225636005}
   - component: {fileID: 1709202607831704939}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sinnersro_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9075497317157376412}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -195,7 +195,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7326354523161460054}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 4369740141478269368}
   - component: {fileID: 5311601659866504707}
   - component: {fileID: 6012420347554262452}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sinnersro_Short_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

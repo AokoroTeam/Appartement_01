@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4462653104040688}
   - component: {fileID: 33794742812196246}
   - component: {fileID: 23244123264702534}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Strandmon_pillowLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4617949176544542}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Strandmon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 33015563404105340}
   - component: {fileID: 23564020127475460}
   - component: {fileID: 7002424581051087323}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: StrandmonLOD_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 1710625210315035413}
   - component: {fileID: 8715123927754152213}
   - component: {fileID: 7093045924622686099}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Strandmon_pillowLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 3588043405835963500}
   - component: {fileID: 1895676764890793829}
   - component: {fileID: 4554378820965496462}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: StrandmonLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 8994970473371885216}
   - component: {fileID: 6248727872515188349}
   - component: {fileID: 5456782233012970766}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: StrandmonLOD_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -471,7 +471,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5809653385622138364}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 3971060272721625048}
   - component: {fileID: 5086942034749670921}
   - component: {fileID: 5867076823290715286}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: StrandmonLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -581,7 +581,7 @@ GameObject:
   - component: {fileID: 4436070185407778787}
   - component: {fileID: 1967899532941469936}
   - component: {fileID: 6610616600864734661}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Strandmon_pillowLOD_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -662,7 +662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9111283646834019540}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -694,7 +694,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8310959749455291486}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -726,7 +726,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6092017277010185183}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -760,7 +760,7 @@ GameObject:
   - component: {fileID: 4788884495182911429}
   - component: {fileID: 1362587490299593220}
   - component: {fileID: 5812173285464985607}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Strandmon_pillowLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -834,7 +834,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8090264517785677511}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -866,7 +866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2595800413961128627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

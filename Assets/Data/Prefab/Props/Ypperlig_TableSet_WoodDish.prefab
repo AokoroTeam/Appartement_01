@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33044175155885008}
   - component: {fileID: 23186735305584550}
   - component: {fileID: 8061911548537745799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TableSet_WoodDish
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4842102148519516}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_WoodDish
   m_TagString: Untagged
   m_Icon: {fileID: 0}

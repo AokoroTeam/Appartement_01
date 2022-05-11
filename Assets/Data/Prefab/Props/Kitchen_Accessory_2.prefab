@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4663808415145066}
   - component: {fileID: 33538422905415642}
   - component: {fileID: 23327649792993872}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Accessory_2_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4636546611974930}
   - component: {fileID: 7552860725533048506}
   - component: {fileID: 181011954574408983}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Accessory_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5772751518567997898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 7418121795179935198}
   - component: {fileID: 6293661802897755575}
   - component: {fileID: 8619513913429313428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Accessory_2_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,7 +283,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2348678177306793684}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -317,7 +317,7 @@ GameObject:
   - component: {fileID: 2954549521549577007}
   - component: {fileID: 176512212345516707}
   - component: {fileID: 3398687550580571304}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kitchen_Accessory_2_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -398,7 +398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5399450225900481423}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

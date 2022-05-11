@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33873241745016832}
   - component: {fileID: 23340280225496434}
   - component: {fileID: 6016958484961858188}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lisabo_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4667432434211468}
   - component: {fileID: 2711950345536725039}
   - component: {fileID: 1593698182774283439}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lisabo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 314886090605695059}
   - component: {fileID: 1703118461062102736}
   - component: {fileID: 8300840825563661821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lisabo_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6847026794468933191}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 4587756841359795894}
   - component: {fileID: 5747695634470427675}
   - component: {fileID: 8145530719446195785}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lisabo_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8913958237656700100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2846311867466689049}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

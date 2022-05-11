@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33219051391010704}
   - component: {fileID: 23349094720393614}
   - component: {fileID: 8152990222644856020}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cardboard2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4057264398264662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cardboard2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

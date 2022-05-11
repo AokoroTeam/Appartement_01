@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33075474671609042}
   - component: {fileID: 23674052558522210}
   - component: {fileID: 1649333374995284530}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Mirror
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4591100078783724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Mirror
   m_TagString: Untagged
   m_Icon: {fileID: 0}

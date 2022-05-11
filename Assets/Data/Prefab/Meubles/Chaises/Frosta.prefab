@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33199434974564662}
   - component: {fileID: 23925998255390560}
   - component: {fileID: 1976597831498697337}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Frosta_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4244952580698972}
   - component: {fileID: 4152933934061204275}
   - component: {fileID: 6437225467891381644}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Frosta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 9189260835263219036}
   - component: {fileID: 384945895271235621}
   - component: {fileID: 6353616464985589311}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Frosta_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4997857039918495917}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 6614194626017555372}
   - component: {fileID: 4791780378690687913}
   - component: {fileID: 6376924409443153350}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Frosta_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4989906660802352830}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8689481066338971858}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

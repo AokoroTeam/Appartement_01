@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33366320199033978}
   - component: {fileID: 23450419726270620}
   - component: {fileID: 5209710578536167192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4474548408157002}
   - component: {fileID: 2640028249671254074}
   - component: {fileID: 8494779842081684893}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   - component: {fileID: 4947493631675652}
   - component: {fileID: 33775059378562730}
   - component: {fileID: 23551349546364908}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 6139036455718155447}
   - component: {fileID: 6379316366430144426}
   - component: {fileID: 7960249653897513174}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 4445227378000002757}
   - component: {fileID: 4355076620365169095}
   - component: {fileID: 1658934146901213730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -436,7 +436,7 @@ GameObject:
   - component: {fileID: 5103611182772371007}
   - component: {fileID: 5077199719364945394}
   - component: {fileID: 4983079482273566910}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -517,7 +517,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 338767845179666736}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -550,7 +550,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9013185698768757120}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -583,7 +583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8933547654218028679}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -618,7 +618,7 @@ GameObject:
   - component: {fileID: 7167658012619856164}
   - component: {fileID: 641964749452738172}
   - component: {fileID: 8627430053322475334}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

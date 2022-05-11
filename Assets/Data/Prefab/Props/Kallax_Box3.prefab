@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4984710554877984}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Box3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 33124301171300836}
   - component: {fileID: 23625362555769888}
   - component: {fileID: 8369226910855035897}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kallax_Box3
   m_TagString: Untagged
   m_Icon: {fileID: 0}

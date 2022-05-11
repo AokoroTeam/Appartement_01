@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4924373101852956}
   - component: {fileID: 33737416619844840}
   - component: {fileID: 23224131801563412}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sinnersro_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4219959119589154}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sinnersro_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}

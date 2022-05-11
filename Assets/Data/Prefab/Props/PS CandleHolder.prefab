@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4333846128586988}
   - component: {fileID: 33988740416425930}
   - component: {fileID: 23053473641529368}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4016498980085142}
   - component: {fileID: 33328978641077090}
   - component: {fileID: 23702742025887086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS CandleHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -176,7 +176,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4089442104503646}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS CandleHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,7 +208,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6717720677533742081}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: CandleLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}

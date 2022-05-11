@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4500925732794578}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dish_v3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 4086149626267524}
   - component: {fileID: 33581093393628334}
   - component: {fileID: 23015112363249262}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 33953517811797274}
   - component: {fileID: 23227466767931936}
   - component: {fileID: 3484859589860754967}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dish
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,7 +222,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4637734260471108505}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dish_v3LOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -254,7 +254,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4299696832922598909}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BaseLOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}

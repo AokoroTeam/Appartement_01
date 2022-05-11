@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4856293091075114}
   - component: {fileID: 1220934174725851061}
   - component: {fileID: 8823610304162189762}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Skogsta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33024085029400658}
   - component: {fileID: 23025648452051392}
   - component: {fileID: 2153393131392237279}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Skogsta_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8286520563907360941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4560691628069493941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 7503645845259308180}
   - component: {fileID: 1093659968294555070}
   - component: {fileID: 2443769748099406822}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Skogsta_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 2288873495837222675}
   - component: {fileID: 2482754633643449568}
   - component: {fileID: 6932904425876827005}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Skogsta_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 726951758125385862}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

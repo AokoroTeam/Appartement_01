@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4663289530852526}
   - component: {fileID: 33561300552117572}
   - component: {fileID: 23981832280415672}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Short_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4029832029396948}
   - component: {fileID: 5660366657265350613}
   - component: {fileID: 1193655007965748817}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 5257239591525178895}
   - component: {fileID: 422282112720503729}
   - component: {fileID: 8691760730089223535}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Short_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7517172202913140615}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,7 +285,7 @@ GameObject:
   - component: {fileID: 8738593385651391493}
   - component: {fileID: 6432103031068707709}
   - component: {fileID: 1279722705356599132}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Short_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -366,7 +366,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8386044023220955047}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -398,7 +398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5832856941525323674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4749405977725826}
   - component: {fileID: 33151838876057342}
   - component: {fileID: 23704665305361120}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Candle_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4252384863753114}
   - component: {fileID: 2550390109224332070}
   - component: {fileID: 1660913960451666937}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Candle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 539805726026092008}
   - component: {fileID: 1120963838521372642}
   - component: {fileID: 6933563093192251783}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Candle_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -246,7 +246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6969767937160435931}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -278,7 +278,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6980772031764053994}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

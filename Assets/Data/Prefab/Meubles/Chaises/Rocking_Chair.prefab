@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4032255173855632}
   - component: {fileID: 8934247344274214195}
   - component: {fileID: 4402064195458119475}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocking_Chair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 1176850026239226}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1000019, y: 1.1, z: 1.1000019}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 465124518112313934}
@@ -44,8 +44,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1176850026239226}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.000009775162, y: 0.4196742, z: -0.07664019}
-  m_Size: 0.8690402
+  m_LocalReferencePoint: {x: 0.00009936094, y: 0.41971797, z: -0.07657969}
+  m_Size: 0.8689616
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33306940581474272}
   - component: {fileID: 23139537642227798}
   - component: {fileID: 3760908455368640444}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocking_Chair_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 465124518112313934}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 2628987786893780829}
   - component: {fileID: 6863408276133025299}
   - component: {fileID: 6019361291467262480}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocking_Chair_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 621566626901224177}
   - component: {fileID: 2091312093132349577}
   - component: {fileID: 3527721927913762922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocking_Chair_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3763907548251343746}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5044502773532056850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

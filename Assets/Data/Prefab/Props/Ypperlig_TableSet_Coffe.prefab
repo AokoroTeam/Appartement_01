@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4123973743173806}
   - component: {fileID: 7284689341367180188}
   - component: {fileID: 5864481397753832615}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Coffe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 4277760178040832}
   - component: {fileID: 33386750874323262}
   - component: {fileID: 23515369477169224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Coffe_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1196376476680817017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 8593234935627206459}
   - component: {fileID: 4188571324234550700}
   - component: {fileID: 1455235802218458218}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Coffe_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -278,7 +278,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7003415507782665810}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

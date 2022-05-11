@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4673736589991398}
   - component: {fileID: 33112406291036686}
   - component: {fileID: 23983675935381794}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4148433964576970}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Candles_Set_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}

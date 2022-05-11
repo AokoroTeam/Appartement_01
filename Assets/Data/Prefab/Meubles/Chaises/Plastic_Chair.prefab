@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4483213358753936}
   - component: {fileID: 33167702884950582}
   - component: {fileID: 23770290277140806}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33267012710468920}
   - component: {fileID: 23802809969672778}
   - component: {fileID: 320159355071601348}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 4086058576572112}
   - component: {fileID: 3257120937695002341}
   - component: {fileID: 5376562434774364404}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 3117967875863369851}
   - component: {fileID: 8083571074523910175}
   - component: {fileID: 5702473882313023959}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 6111315039711109763}
   - component: {fileID: 7256149400255314408}
   - component: {fileID: 7314279358854026203}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -434,7 +434,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7635755973578684548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 1633864548685621279}
   - component: {fileID: 7447821327804233595}
   - component: {fileID: 7007433353111271913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -552,7 +552,7 @@ GameObject:
   - component: {fileID: 899300121566965861}
   - component: {fileID: 3265812810209150914}
   - component: {fileID: 9001403700757748441}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plastic_Chair_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -633,7 +633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5052451709569713936}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,7 +666,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8383546691822326160}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

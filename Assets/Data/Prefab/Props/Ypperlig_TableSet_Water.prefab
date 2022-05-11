@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4386168217340940}
   - component: {fileID: 33560533352642298}
   - component: {fileID: 23335053313315088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Water_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4083323630835814}
   - component: {fileID: 5884234375693392202}
   - component: {fileID: 1663608564624186184}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Water
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4621545137539299224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -195,7 +195,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2240860625303423213}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 6356099633438572164}
   - component: {fileID: 3480372383652017041}
   - component: {fileID: 5645702155592072163}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_Water_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33651733938652782}
   - component: {fileID: 23189989215163632}
   - component: {fileID: 5767293606925600364}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Idolf_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4739837375669218}
   - component: {fileID: 5094599567438501649}
   - component: {fileID: 8569935774867889942}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Idolf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 3892239441000238194}
   - component: {fileID: 8398984840087828128}
   - component: {fileID: 5573296759004704794}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Idolf_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 4538518678266011088}
   - component: {fileID: 5743218905945813765}
   - component: {fileID: 6512817164485628405}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Idolf_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -348,7 +348,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8849631128009158045}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6089382554707582975}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1454961003690921228}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

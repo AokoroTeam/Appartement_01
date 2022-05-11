@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4892889772549874}
   - component: {fileID: 3333077393179007319}
   - component: {fileID: 1283738088957771146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_PaperBag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 33033610295878572}
   - component: {fileID: 23164995451702444}
   - component: {fileID: 7556655068193652142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_PaperBag_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7026088054218690593}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -214,7 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8986318080304173872}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 1961691468562986155}
   - component: {fileID: 2522336858147678598}
   - component: {fileID: 6931993011931806571}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_PaperBag_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8019872488266111321}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 9057751925145746190}
   - component: {fileID: 920593313250627687}
   - component: {fileID: 5476013004042719978}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_TableSet_PaperBag_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

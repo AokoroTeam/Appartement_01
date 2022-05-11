@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33261335933215842}
   - component: {fileID: 23250889144600048}
   - component: {fileID: 9048318664304105742}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS_Hanger_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4615703211073354}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS_Hanger_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}

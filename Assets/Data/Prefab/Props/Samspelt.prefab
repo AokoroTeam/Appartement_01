@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4669517851184382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Samspelt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4338001440259006}
   - component: {fileID: 33861920856565686}
   - component: {fileID: 23416634752465408}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Samspelt
   m_TagString: Untagged
   m_Icon: {fileID: 0}

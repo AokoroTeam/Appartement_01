@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4800014079001488}
   - component: {fileID: 1729490142255992224}
   - component: {fileID: 5358841232020276495}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 4766036627773622}
   - component: {fileID: 33751859529568298}
   - component: {fileID: 23502694831998728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_1_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 4779769066857548}
   - component: {fileID: 33320815743686876}
   - component: {fileID: 23977128241691192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 4061094513827968}
   - component: {fileID: 33886885582399366}
   - component: {fileID: 23121409268564384}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_2_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   - component: {fileID: 6076813373773150137}
   - component: {fileID: 8013299563313014602}
   - component: {fileID: 7193436886917657024}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -418,7 +418,7 @@ GameObject:
   - component: {fileID: 4931747196685321885}
   - component: {fileID: 675824607216911708}
   - component: {fileID: 518924818704120010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -499,7 +499,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1164087223045432018}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -535,7 +535,7 @@ GameObject:
   - component: {fileID: 7484607375711986378}
   - component: {fileID: 1375983151698121163}
   - component: {fileID: 5726793246379901322}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brunsta_2_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -616,7 +616,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1279061756148397115}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

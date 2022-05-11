@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4961932918204764}
   - component: {fileID: 33212032806713010}
   - component: {fileID: 23554092035647544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Board_Low
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4019626725940716}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Office_Board
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 4154342879201692}
   - component: {fileID: 33894895952052144}
   - component: {fileID: 23276502738652978}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Board_Glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}

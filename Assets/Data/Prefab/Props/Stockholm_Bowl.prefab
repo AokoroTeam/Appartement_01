@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4565132981110354}
   - component: {fileID: 33589754161805496}
   - component: {fileID: 23507702884681248}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stockholm_Bowl_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4625331391584914}
   - component: {fileID: 999837282686407357}
   - component: {fileID: 748399863496097576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stockholm_Bowl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3868890266256902840}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,7 +200,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6320868355185073640}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 4153235962308376952}
   - component: {fileID: 608876760337994528}
   - component: {fileID: 2341857329442226395}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stockholm_Bowl_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -317,7 +317,7 @@ GameObject:
   - component: {fileID: 5314375532853045717}
   - component: {fileID: 4346989401581888507}
   - component: {fileID: 1838636884075663717}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Stockholm_Bowl_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -398,7 +398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5628990716034744842}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

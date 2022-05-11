@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4225914958931360}
   - component: {fileID: 2186567147787686767}
   - component: {fileID: 8564307619966485567}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS_Hanger_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83,7 +83,7 @@ GameObject:
   - component: {fileID: 33545002564869286}
   - component: {fileID: 23384453475980686}
   - component: {fileID: 6337285261600825482}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS_Hanger_Tall_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4839631131397279801}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 6297031425425666358}
   - component: {fileID: 8464867653188221285}
   - component: {fileID: 7581616156727143912}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PS_Hanger_Tall_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,7 +292,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3475639063256836086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

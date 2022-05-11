@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33198997226444070}
   - component: {fileID: 23035610392921122}
   - component: {fileID: 8348983013844713461}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Chair_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 4704033163695708}
   - component: {fileID: 3537768147787744459}
   - component: {fileID: 4819015526832929337}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Chair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 402884416708189821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 4246105934095463258}
   - component: {fileID: 3619090877685551882}
   - component: {fileID: 3271123921086599669}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Chair_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7591541490600218273}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 3248670336421066027}
   - component: {fileID: 6428041987628313535}
   - component: {fileID: 7509260651418349638}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ypperlig_Chair_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6459646045846859977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

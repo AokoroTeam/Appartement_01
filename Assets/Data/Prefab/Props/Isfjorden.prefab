@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33611947376206972}
   - component: {fileID: 23739965745276372}
   - component: {fileID: 4197335309369599576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Isfjorden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4497953570384164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Isfjorden
   m_TagString: Untagged
   m_Icon: {fileID: 0}

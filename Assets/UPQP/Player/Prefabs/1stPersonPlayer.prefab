@@ -121,7 +121,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 2.5150375
+      value: 4.25
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.size
@@ -234,6 +234,18 @@ PrefabInstance:
     - target: {fileID: 119849872698423561, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_CastShadows
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 506713300638409367, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: _height
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 506713300638409367, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: _radius
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 506713300638409367, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: _perchOffset
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 890332452617685585, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
@@ -2060,8 +2072,16 @@ PrefabInstance:
       value: 0.06813112
       objectReference: {fileID: 0}
     - target: {fileID: 3690061323768010338, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Height
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690061323768010338, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Radius
-      value: 0.25
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690061323768010338, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: m_Center.y
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 4171024055253637799, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
@@ -2074,6 +2094,10 @@ PrefabInstance:
     - target: {fileID: 7687904980491103201, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8211786350873182967, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
+      propertyPath: _maxWalkSpeed
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1596070223, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}

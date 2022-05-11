@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4759033743044784}
   - component: {fileID: 33933879898032436}
   - component: {fileID: 23547902959359704}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Livslang_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4548672525731626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Livslang_Tall
   m_TagString: Untagged
   m_Icon: {fileID: 0}

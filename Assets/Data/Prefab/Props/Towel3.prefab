@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4420108398174722}
   - component: {fileID: 33762568609223582}
   - component: {fileID: 23272045524162382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Towel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4112005509045758}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Towel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
