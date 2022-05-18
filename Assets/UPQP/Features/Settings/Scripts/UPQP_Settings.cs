@@ -14,21 +14,18 @@ namespace UPQP.Features.Settings
         {
             
         }
+
         protected override void GenerateNeededContentOnSetup(LevelManager controller)
         {
 
         }
 
-
-        public override void DisableFeature()
-        {
-
-        }
-
-        public override void EnableFeature()
+        protected override void OnFeatureEnds()
         {
         }
 
-
+        protected override void OnFeatureStarts()
+        {
+        }
     }
 }

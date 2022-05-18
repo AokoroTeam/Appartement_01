@@ -9,15 +9,17 @@ namespace UPQP.Features.SliceView
     public class SliceView_Data : FeatureData<SliceView>
     {
         public GameObject PlayerComponent;
-        public GameObject Manager;
+        public GameObject VirtualCamera;
         public GameObject UI;
 
         public override SliceView GenerateFeatureFromData(LevelManager controller)
         {
-            SliceView sliceView = new SliceView(PlayerComponent, Manager, UI);
+            SliceView sliceView = new SliceView(PlayerComponent, VirtualCamera, UI);
             sliceView.Setup(controller);
 
             return sliceView;
         }
+
+        internal override bool CanGenerateFeature() => SliceView_SceneManager.Instance != null;
     }
 }

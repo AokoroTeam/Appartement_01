@@ -14,5 +14,7 @@ namespace UPQP.Features
     public abstract class FeatureDataAsset : ScriptableObject
     {
         internal abstract Feature GenerateFeature(LevelManager controller);
+
+        internal abstract bool CanGenerateFeature();
     }
 }

@@ -11,7 +11,7 @@ namespace UPQP.Features
 
     public abstract class PlayerFeatureComponent<T> : FeatureComponent<T>, IPlayerFeature, ICD_InputActionsProvider, IPlayerInputAssetProvider where T : Feature
     {
-        Feature IPlayerFeature.Feature => _Feature;
+        Feature IPlayerFeature.Feature => feature;
 
         public event Action OnActionsNeedRefresh;
 
@@ -32,24 +32,17 @@ namespace UPQP.Features
             playerControls = GetComponentInParent<PlayerControls>();
         }
 
-        protected override void Start()
-        {
-            base.Start();
-        }
 
-        private void OnEnable()
+        protected virtual void OnEnable()
         {
             playerControls.OnControlChanges += TriggerRefresh;
         }
 
-        private void OnDisable()
+        protected virtual void OnDisable()
         {
             playerControls.OnControlChanges -= TriggerRefresh;
         }
         private void TriggerRefresh() => OnActionsNeedRefresh?.Invoke();
-
-        public abstract void OnFeatureEnables();
-        public abstract void OnFeatureDisables();
 
         public abstract void BindToNewActions(InputActionAsset actions);
 

@@ -123,15 +123,17 @@ namespace UPQP.Player
         }
         public void ExecuteFeature(Feature feature)
         {
-            feature.EnableFeature();
             feature.IsActive = true;
+            feature.StartFeature();
+
             executeFeatures.Disable();
         }
 
         public void EndFeature(Feature feature)
         {
-            feature.DisableFeature();
             feature.IsActive = false;
+            feature.EndFeature();
+
             executeFeatures.Enable();
         }
 

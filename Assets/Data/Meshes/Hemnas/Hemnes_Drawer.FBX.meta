@@ -2,15 +2,61 @@ fileFormatVersion: 2
 guid: 8f2ae4361dcfa394f8ca7ce6c1ea220f
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable: []
-  externalObjects:
+  internalIDToNameTable:
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Aircondition
-    second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+      1: 100000
+    second: Hemnes_Drawer
+  - first:
+      1: 100002
+    second: Hemnes_Drawer_Handles
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Object001
+  - first:
+      4: 400000
+    second: Hemnes_Drawer
+  - first:
+      4: 400002
+    second: Hemnes_Drawer_Handles
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Object001
+  - first:
+      21: 2100000
+    second: 01 - Default
+  - first:
+      23: 2300000
+    second: Hemnes_Drawer
+  - first:
+      23: 2300002
+    second: Hemnes_Drawer_Handles
+  - first:
+      23: 2300004
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: Hemnes_Drawer
+  - first:
+      33: 3300002
+    second: Hemnes_Drawer_Handles
+  - first:
+      33: 3300004
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Hemnes_Drawer
+  - first:
+      43: 4300002
+    second: Hemnes_Drawer_Handles
+  externalObjects: {}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -37,22 +83,22 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     nodeNameCollisionStrategy: 0
-    fileIdsGeneration: 2
+    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -65,23 +111,23 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 0
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 40
+    secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
