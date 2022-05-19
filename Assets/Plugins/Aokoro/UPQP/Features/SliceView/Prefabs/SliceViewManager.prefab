@@ -173,7 +173,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2536632493224494046}
-  - component: {fileID: 2536632493224494033}
+  - component: {fileID: 3721052782358147450}
   m_Layer: 0
   m_Name: SliceViewManager
   m_TagString: Untagged
@@ -199,7 +199,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2536632493224494033
+--- !u!114 &3721052782358147450
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -208,20 +208,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2536632493224494047}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6acdaa6554518645b8a3cbc3eff8bd2, type: 3}
+  m_Script: {fileID: 11500000, guid: 993c0ca6d4a5d7c4b9f049d0ad243b9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraCenter: {fileID: 2536632493113109089}
-  virtualCamera: {fileID: 2536632493180779971}
-  levelRoot: {fileID: 0}
-  hide:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  title: "Nouvelle fonctionnalit\xE9 !"
-  description: "Appuyez sur la touche 1 pour activer la vue d\xE9coup\xE9e et observer
-    l'environnement dans sa globalit\xE9."
+  LevelBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
 --- !u!1 &2536632494785436242
 GameObject:
   m_ObjectHideFlags: 0

@@ -149,8 +149,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1270533385176432}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: -0.029544353, y: 5.839529, z: 1.9393222}
-  m_Size: 4.1407304
+  m_LocalReferencePoint: {x: -0.029365778, y: 5.837863, z: 1.9385242}
+  m_Size: 4.1423244
   m_FadeMode: 1
   m_AnimateCrossFading: 1
   m_LastLODIsBillboard: 0
@@ -274,7 +274,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -285,7 +285,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -359,7 +358,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -370,7 +369,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -403,12 +401,12 @@ GameObject:
   - component: {fileID: 8418315767930610537}
   - component: {fileID: 2863626304180591470}
   - component: {fileID: 8967611689995822621}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_1_LOD_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8418315767930610537
 Transform:
@@ -444,7 +442,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -455,7 +453,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -486,7 +483,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1514888254936925192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -519,7 +516,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8330403092538527392}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -554,12 +551,12 @@ GameObject:
   - component: {fileID: 8118169531765007694}
   - component: {fileID: 5212296519234040626}
   - component: {fileID: 4622721134173324286}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_1_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8118169531765007694
 Transform:
@@ -595,7 +592,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -606,7 +603,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -639,12 +635,12 @@ GameObject:
   - component: {fileID: 665042241025992286}
   - component: {fileID: 5883533709020147299}
   - component: {fileID: 3669209252233576266}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_0_LOD_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &665042241025992286
 Transform:
@@ -680,7 +676,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -691,7 +687,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -724,12 +719,12 @@ GameObject:
   - component: {fileID: 5642360337190977963}
   - component: {fileID: 1066484398623255361}
   - component: {fileID: 6415280643666247059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5642360337190977963
 Transform:
@@ -765,7 +760,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -776,7 +771,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -809,12 +803,12 @@ GameObject:
   - component: {fileID: 5897805749143253879}
   - component: {fileID: 3178795641788894584}
   - component: {fileID: 5339846078500149384}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5897805749143253879
 Transform:
@@ -850,7 +844,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -861,7 +855,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -892,7 +885,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2827975824967078103}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -927,12 +920,12 @@ GameObject:
   - component: {fileID: 7610616393720730922}
   - component: {fileID: 75978292807659377}
   - component: {fileID: 5354725022969513519}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ivy3_Leaf_1_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7610616393720730922
 Transform:
@@ -968,7 +961,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -979,7 +972,6 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   - {fileID: 2100000, guid: e716a8fb4011c864298332452f44cf30, type: 2}
-  - {fileID: 2100000, guid: fdd3a5201a4623f48a8ecfd3c5323dde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1010,7 +1002,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 514084762293415094}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

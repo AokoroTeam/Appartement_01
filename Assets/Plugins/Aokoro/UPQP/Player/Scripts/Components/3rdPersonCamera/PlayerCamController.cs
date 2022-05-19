@@ -20,6 +20,8 @@ namespace UPQP.Player.CameraManagement
         [SerializeField, Range(.01f, 4)]
         private float horizontalSpeed;
 
+        private const float scaling = 200;
+
         public virtual void Initiate(PlayerManager manager)
         {
             lookAction = manager.playerInput.actions.FindActionMap("DefaultGameplay").FindAction("Look");
@@ -38,9 +40,10 @@ namespace UPQP.Player.CameraManagement
             lookAction.Enable();
         }
 
-
         public override float GetAxisValue(int axis)
         {
+            var mouses = InputSystem.devices;
+
             if (enabled)
             {
                 var action = ResolveForPlayer(axis, axis == 2 ? ZAxis : XYAxis);
@@ -48,12 +51,13 @@ namespace UPQP.Player.CameraManagement
                 {
                     switch (axis)
                     {
-                        case 0: return action.ReadValue<Vector2>().x;
-                        case 1: return action.ReadValue<Vector2>().y;
-                        case 2: return action.ReadValue<float>();
+                        case 0: return action.ReadValue<Vector2>().x * Time.deltaTime * horizontalSpeed * scaling;
+                        case 1: return action.ReadValue<Vector2>().y * Time.deltaTime * verticalSpeed * scaling;
+                        case 2: return action.ReadValue<float>() * Time.deltaTime * scaling;
                     }
                 }
             }
+
 
             return 0;
         }

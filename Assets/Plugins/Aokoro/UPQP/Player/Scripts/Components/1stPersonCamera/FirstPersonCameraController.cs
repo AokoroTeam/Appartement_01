@@ -32,8 +32,11 @@ namespace UPQP.Player.CameraManagement
         {
             base.Initiate(manager);
             transform.SetParent(null);
+        }
 
-
+        public override float GetAxisValue(int axis)
+        {
+            return base.GetAxisValue(axis);
         }
 
         public void OnCameraLive(ICinemachineCamera from, ICinemachineCamera to)

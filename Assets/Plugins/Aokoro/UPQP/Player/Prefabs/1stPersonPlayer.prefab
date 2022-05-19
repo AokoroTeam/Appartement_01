@@ -63,14 +63,6 @@ PrefabInstance:
       propertyPath: m_HorizontalAxis.m_SpeedMode
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
-      propertyPath: m_VerticalAxis.m_InputAxisValue
-      value: -36
-      objectReference: {fileID: 0}
-    - target: {fileID: 195784893, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
-      propertyPath: m_HorizontalAxis.m_InputAxisValue
-      value: -2
-      objectReference: {fileID: 0}
     - target: {fileID: 819279860, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Layer
       value: 7
@@ -121,7 +113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 4.25
+      value: 1.7776384
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.size
