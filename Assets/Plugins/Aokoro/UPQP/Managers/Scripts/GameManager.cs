@@ -30,6 +30,7 @@ namespace UPQP.Managers
         private void Start()
         {
             OnFocusLost();
+            WebGLInput.captureAllKeyboardInput = false;
         }
 
 

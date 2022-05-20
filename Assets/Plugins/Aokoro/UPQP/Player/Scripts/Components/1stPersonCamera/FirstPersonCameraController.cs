@@ -1,11 +1,12 @@
 using Aokoro.Entities.Player;
 using Cinemachine;
 using UnityEngine;
+using Aokoro.Entities;
 
 namespace UPQP.Player.CameraManagement
 {
 
-    public class FirstPersonCameraController : PlayerCamController
+    public class FirstPersonCameraController : PlayerCamController, ILateUpdateEntityComponent<PlayerManager>
     {
         CinemachineVirtualCamera Vcam
         {
@@ -43,6 +44,7 @@ namespace UPQP.Player.CameraManagement
         {
             Recenter();
         }
+        
         private void Start()
         {
             Recenter();
@@ -54,6 +56,11 @@ namespace UPQP.Player.CameraManagement
             Pov.ForceCameraPosition(Vcam.transform.position, rot);
             //Pov.transform.rotation = rot;
             //Pov.m_HorizontalAxis.Value = Pov.m_VerticalAxis.Value = 0;
+        }
+
+        public void OnLateUpdate()
+        {
+            Pov.LookAtTarget.forward = Manager.transform.forward;
         }
     }
 }
