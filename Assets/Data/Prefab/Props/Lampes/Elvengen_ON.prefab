@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4569778635566218
 Transform:
@@ -49,7 +49,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1335574687369810}
   m_Enabled: 1
-  m_CastShadows: 1
+  m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 1
@@ -94,12 +94,12 @@ GameObject:
   - component: {fileID: 4433252328664406}
   - component: {fileID: 33082583379689254}
   - component: {fileID: 23065442514907486}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Elvengen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4433252328664406
 Transform:
@@ -214,7 +214,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5331139997264542147
 Transform:
@@ -246,7 +246,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5938021955235871362
 Transform:
@@ -280,7 +280,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &441057336813667875
 Transform:
@@ -356,7 +356,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3224492682034551031
 Transform:
@@ -389,7 +389,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2879758838241936972}
   m_Enabled: 1
-  m_CastShadows: 1
+  m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 1
@@ -467,8 +467,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.3
+  m_Color: {r: 1, g: 0.9480236, b: 0.8254717, a: 1}
+  m_Intensity: 0.2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -510,10 +510,10 @@ Light:
   m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 4000
-  m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BounceIntensity: 4
+  m_ColorTemperature: 6398
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 1.05e-43, y: 2.6562857e+20, z: 1.0691825e-38, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -552,7 +552,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2040951733501526753
 Transform:
@@ -586,7 +586,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 123
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6869848335813500183
 Transform:
@@ -619,7 +619,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5224192980970664920}
   m_Enabled: 1
-  m_CastShadows: 1
+  m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 1
@@ -669,7 +669,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6890757761009351781
 Transform:

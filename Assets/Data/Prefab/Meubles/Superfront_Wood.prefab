@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4269497670996746}
   - component: {fileID: 33385641897139352}
   - component: {fileID: 23087001264272582}
-  - component: {fileID: 8063767839634735592}
+  - component: {fileID: 8330424054306655503}
   m_Layer: 3
   m_Name: Ikea_SuperfrontLOD_0_LOD_0
   m_TagString: Untagged
@@ -167,8 +167,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8063767839634735592
-BoxCollider:
+--- !u!64 &8330424054306655503
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -177,9 +177,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.8750968, y: 0.44687593, z: 1.1242042}
-  m_Center: {x: 0.000473693, y: -0.0084986705, z: 0.5621017}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6755062057161292778, guid: f24602d4b3a808a4495273f2f17ce9a4, type: 3}
 --- !u!1 &1802600949599262
 GameObject:
   m_ObjectHideFlags: 0

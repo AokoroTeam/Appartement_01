@@ -9,8 +9,118 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.001
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.002
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.003
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.004
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.005
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material.006
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material.001
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Handle_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Handle_material.001
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Handle_material.002
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Handle_material.003
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sill_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.001
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.002
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.003
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.004
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.005
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material.006
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hidden_material
+    second: {fileID: 2100000, guid: bc3234e5dbf3d3548a52ecc03e5feafb, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -41,8 +151,8 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
-    addColliders: 0
+    meshCompression: 2
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0
@@ -70,7 +180,7 @@ ModelImporter:
     secondaryUVMarginMethod: 0
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 40
+    secondaryUVPackMargin: 50
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
