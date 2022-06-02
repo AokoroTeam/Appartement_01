@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d72f76ef79bf06f46b83eb497b32f679
+guid: b34c456bc0e649045a56f67f2d12fa4c
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -10,7 +10,7 @@ ModelImporter:
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -42,7 +42,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 3
-    addColliders: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0

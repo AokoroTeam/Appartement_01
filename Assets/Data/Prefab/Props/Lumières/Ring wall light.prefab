@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 5652252662045341821}
   - component: {fileID: 2226860391663580576}
   - component: {fileID: 1866878710381435675}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point Light_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5652252662045341821
 Transform:
@@ -51,7 +51,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -90,7 +90,7 @@ Light:
   m_BounceIntensity: 0.6
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 8.4e-44, z: 1.05e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 4425059691662809723}
   - component: {fileID: 776628826023728606}
   - component: {fileID: 3252677021899809044}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ring wall light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,12 +217,12 @@ GameObject:
   - component: {fileID: 4243025427788326592}
   - component: {fileID: 4243025427788326598}
   - component: {fileID: 4243025427788326599}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4243025427788326592
 Transform:
@@ -257,7 +257,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -293,10 +293,10 @@ Light:
   m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3
+  m_BounceIntensity: 2
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 3.4e-44}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -332,12 +332,12 @@ GameObject:
   - component: {fileID: 4243025427888228461}
   - component: {fileID: 4243025427888228467}
   - component: {fileID: 4243025427888228460}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point Light_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4243025427888228461
 Transform:
@@ -372,7 +372,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -408,10 +408,10 @@ Light:
   m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3
+  m_BounceIntensity: 2
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 5.6e-44, z: 0, w: 1.8056947e+28}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -446,12 +446,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2132907691620558059}
   - component: {fileID: 8706602973563980194}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light Probe Group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2132907691620558059
 Transform:

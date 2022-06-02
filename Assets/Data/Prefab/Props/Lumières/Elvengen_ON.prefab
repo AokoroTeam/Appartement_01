@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4569778635566218}
   - component: {fileID: 33658732947500004}
   - component: {fileID: 23850233678789508}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Elvengen_GlassLOD2_0_LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4433252328664406}
   - component: {fileID: 33082583379689254}
   - component: {fileID: 23065442514907486}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Elvengen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -175,7 +175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4869179504203826}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Elvengen_ON
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -209,7 +209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5331139997264542147}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -241,7 +241,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5938021955235871362}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -275,7 +275,7 @@ GameObject:
   - component: {fileID: 441057336813667875}
   - component: {fileID: 8674226218412590787}
   - component: {fileID: 8400210826786562753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Elvengen_GlassLOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 3224492682034551031}
   - component: {fileID: 957467839935430062}
   - component: {fileID: 2504203054941618278}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Elvengen_GlassLOD2_0_LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -434,13 +434,13 @@ GameObject:
   - component: {fileID: 7680668231943606927}
   - component: {fileID: 4747813899352411623}
   - component: {fileID: 8209095728660251018}
-  m_Layer: 1
+  m_Layer: 3
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7680668231943606927
 Transform:
   m_ObjectHideFlags: 0
@@ -513,7 +513,7 @@ Light:
   m_BounceIntensity: 4
   m_ColorTemperature: 6398
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.05e-43, y: 2.6562857e+20, z: 1.0691825e-38, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 8.4e-44, z: 1.05e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -547,7 +547,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2040951733501526753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LOD_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -581,7 +581,7 @@ GameObject:
   - component: {fileID: 6869848335813500183}
   - component: {fileID: 2039715982366171139}
   - component: {fileID: 6987106174767552871}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Elvengen_GlassLOD2_0_LOD_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -664,7 +664,7 @@ GameObject:
   - component: {fileID: 6890757761009351781}
   - component: {fileID: 7236379988103723625}
   - component: {fileID: 3481987063160520089}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ElvengenLOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

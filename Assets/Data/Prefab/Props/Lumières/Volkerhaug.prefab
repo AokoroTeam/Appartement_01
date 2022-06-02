@@ -126,6 +126,7 @@ GameObject:
   - component: {fileID: 746777013554525278}
   - component: {fileID: 4463856860416916475}
   - component: {fileID: 1879752979343986481}
+  - component: {fileID: 4526690355903510546}
   m_Layer: 0
   m_Name: Volkerhaug
   m_TagString: Untagged
@@ -156,7 +157,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 78466716604591844}
-  m_Mesh: {fileID: 6444313498008873314, guid: 31cb23857a306aa4b89b0f82a2a8b742, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 5de974dd706d11643aa3b63aeb2ba449, type: 2}
 --- !u!23 &1879752979343986481
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -200,3 +201,303 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4526690355903510546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78466716604591844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a054274092705d47b8cc27f27aab3bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataContainer:
+    objectsHistory:
+      gameObject: {fileID: 78466716604591844}
+      undoOperations:
+      - isReduceDeep: 0
+        objectMeshPairs:
+          _Buckets: ffffffff00000000ffffffff
+          _HashCodes: a47703000000000000000000
+          _Next: ffffffff0000000000000000
+          _Count: 1
+          _Version: 1
+          _FreeList: -1
+          _FreeCount: 0
+          _Keys:
+          - {fileID: 78466716604591844}
+          - {fileID: 0}
+          - {fileID: 0}
+          _Values:
+          - attachedToMeshFilter: 1
+            mesh: {fileID: 0}
+          - attachedToMeshFilter: 0
+            mesh: {fileID: 0}
+          - attachedToMeshFilter: 0
+            mesh: {fileID: 0}
+      redoOperations: []
+    objectMeshPairs:
+      _Buckets: ffffffff00000000ffffffff
+      _HashCodes: a47703000000000000000000
+      _Next: ffffffff0000000000000000
+      _Count: 1
+      _Version: 1
+      _FreeList: -1
+      _FreeCount: 0
+      _Keys:
+      - {fileID: 78466716604591844}
+      - {fileID: 0}
+      - {fileID: 0}
+      _Values:
+      - attachedToMeshFilter: 1
+        mesh: {fileID: 4300000, guid: 5de974dd706d11643aa3b63aeb2ba449, type: 2}
+      - attachedToMeshFilter: 0
+        mesh: {fileID: 0}
+      - attachedToMeshFilter: 0
+        mesh: {fileID: 0}
+    currentLodLevelSettings:
+    - reductionStrength: 0
+      transitionHeight: 0.6
+      preserveUVFoldover: 0
+      preserveUVSeams: 0
+      preserveBorders: 0
+      useEdgeSort: 1
+      recalculateNormals: 0
+      aggressiveness: 7
+      maxIterations: 100
+      regardCurvature: 0
+      regardTolerance: 0
+      combineMeshes: 0
+      simplificationOptionsFoldout: 0
+      intensityFoldout: 0
+      sphereIntensities: []
+    - reductionStrength: 30
+      transitionHeight: 0.4
+      preserveUVFoldover: 0
+      preserveUVSeams: 0
+      preserveBorders: 0
+      useEdgeSort: 1
+      recalculateNormals: 0
+      aggressiveness: 7
+      maxIterations: 100
+      regardCurvature: 0
+      regardTolerance: 0
+      combineMeshes: 0
+      simplificationOptionsFoldout: 0
+      intensityFoldout: 0
+      sphereIntensities: []
+    - reductionStrength: 60
+      transitionHeight: 0.15
+      preserveUVFoldover: 0
+      preserveUVSeams: 0
+      preserveBorders: 0
+      useEdgeSort: 1
+      recalculateNormals: 0
+      aggressiveness: 7
+      maxIterations: 100
+      regardCurvature: 0
+      regardTolerance: 0
+      combineMeshes: 0
+      simplificationOptionsFoldout: 0
+      intensityFoldout: 0
+      sphereIntensities: []
+    toleranceSpheres: []
+    lodBackup:
+      originalRenderers: []
+      lodParentObject: {fileID: 0}
+    textureArraysSettings:
+      diffuseArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      metallicArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      specularArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      normalArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      heightArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      occlusionArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      emissiveArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      detailMaskArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      detailAlbedoArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+      detailNormalArraySettings:
+        resolution:
+          width: 512
+          height: 512
+        filteringMode: 0
+        compressionType: 0
+        compressionQuality: 1
+        anisotropicFilteringLevel: 1
+        choiceResolutionW: 4
+        choiceResolutionH: 4
+        choiceFilteringMode: 0
+        choiceCompressionQuality: 1
+        choiceCompressionType: 0
+    materialsToRestore: []
+    lastObjMaterialLinks: {fileID: 0}
+    relocateMaterialLinks: 0
+    reInitializeTempMatProps: 0
+    choiceTextureMap: 0
+    choiceDiffuseColorSpace: 0
+    batchFewSavePath: 
+    existingTextureArrays: []
+    existingTextureArraysFoldout: 0
+    existingTextureArraysSize: 0
+    textureArraysPropsFoldout: 0
+    existingArraysProps:
+      resolution:
+        width: 0
+        height: 0
+      filteringMode: 0
+      compressionType: 0
+      compressionQuality: 0
+      anisotropicFilteringLevel: 0
+      choiceResolutionW: 0
+      choiceResolutionH: 0
+      choiceFilteringMode: 0
+      choiceCompressionQuality: 0
+      choiceCompressionType: 0
+    choiceColorSpace: 0
+    preserveBorders: 1
+    preserveUVSeams: 0
+    preserveUVFoldover: 0
+    useEdgeSort: 1
+    recalculateNormals: 0
+    maxIterations: 100
+    aggressiveness: 7
+    regardCurvature: 1
+    considerChildren: 0
+    isPreservationActive: 0
+    sphereDiameter: 0.5
+    oldSphereScale: {x: 0, y: 0, z: 0}
+    reductionStrength: 0
+    reductionPending: 0
+    prevFeasibleTarget: {fileID: 78466716604591844}
+    runOnThreads: 0
+    triangleCount: 2790
+    lastDrawer: {fileID: 0}
+    foldoutAutoLOD: 0
+    foldoutBatchFew: 0
+    foldoutAutoLODMultiple: 0
+    objPositionPrevFrame: {x: -4.4389997, y: 6.1619997, z: 7.057999}
+    objScalePrevFrame: {x: 0.5387324, y: 0.53873265, z: 0.53873265}
+    considerChildrenBatchFew: 1
+    autoLODSavePath: Assets/
+    foldoutAdditionalOpts: 0
+    generateUV2LODs: 0
+    copyParentStaticFlags: 0
+    copyParentTag: 0
+    copyParentLayer: 0
+    createAsChildren: 0
+    removeLODBackupComponent: 0
+    generateUV2batchfew: 0
+    removeMaterialLinksComponent: 0
+    clearBlendshapesComplete: 0
+    clearBlendshapesNormals: 0
+    clearBlendshapesTangents: 0
+    isPlainSkin: 0

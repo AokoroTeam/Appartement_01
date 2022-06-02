@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6052050020500702282}
   - component: {fileID: 7229096507840400367}
   - component: {fileID: 4879122091888672549}
+  - component: {fileID: 6086485226301037177}
   m_Layer: 3
   m_Name: Loreta
   m_TagString: Untagged
@@ -25,14 +26,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6392547139845054192}
-  m_LocalRotation: {x: 0.707106, y: 0.7071076, z: -0.000002030475, w: -0.0000021124315}
+  m_LocalRotation: {x: -0.7071068, y: -0.7071068, z: 0, w: 0}
   m_LocalPosition: {x: -1.239, y: 1.7120152, z: 0.178}
   m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 90}
 --- !u!33 &7229096507840400367
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -85,3 +86,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6086485226301037177
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6392547139845054192}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.85476136, y: 1.8052255, z: 0.13266931}
+  m_Center: {x: 0.00020754643, y: 0.8995601, z: -0.06504157}
