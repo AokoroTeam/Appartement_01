@@ -7,20 +7,17 @@ using System.Linq;
 
 namespace Aokoro.Tools.Props
 {
-    [RequireComponent(typeof(LODGroup))]
+    
     public class MaterialRandomizer : MonoBehaviour
     {
-        [Expandable]
+        public MeshRenderer[] renderers;
         public MaterialRandomizerList data;
 
         [Button]
         private void Randomize()
         {
-            LODGroup group = GetComponent<LODGroup>();
-            LOD[] LODs = group.GetLODs();
 
-
-            int lenght = LODs.Select(ctx => ctx.renderers.Min(r => r.sharedMaterials.Length)).Min();
+            int lenght = renderers.Length;
             Material[] set = new Material[lenght];
 
             for (int i = 0; i < lenght; i++)
@@ -28,12 +25,8 @@ namespace Aokoro.Tools.Props
                 int rng = Random.Range(0, data.materials.Length);
                 set[i] = data.materials[rng];
             }
-
-            foreach (LOD lod in LODs)
-            {
-                foreach (Renderer renderer in lod.renderers)
-                    renderer.sharedMaterials = set;
-            }
+            for (int i = 0; i < renderers.Length; i++)
+                renderers[i].sharedMaterials = set;
         }
 
         [Button]
