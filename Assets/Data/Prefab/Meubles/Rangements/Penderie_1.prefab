@@ -11,12 +11,13 @@ GameObject:
   - component: {fileID: 7204354681147425539}
   - component: {fileID: 4142721796678523993}
   - component: {fileID: 2346032928269916736}
-  m_Layer: 0
+  - component: {fileID: 315130550}
+  m_Layer: 3
   m_Name: Cousin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7204354681147425539
 Transform:
@@ -83,6 +84,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &315130550
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100471060327299939}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.10449273, y: 0.086767755, z: 0.030571394}
+  m_Center: {x: 0.24347922, y: 0.71051544, z: 0.027125888}
 --- !u!1 &1721724887261672045
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,12 +106,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2066900462956587223}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Penderie_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2066900462956587223
 Transform:
@@ -106,9 +120,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721724887261672045}
-  m_LocalRotation: {x: -0, y: 0.7071079, z: -0, w: 0.7071057}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 3.744, y: 0.04685147, z: -0.806}
-  m_LocalScale: {x: 0.8030914, y: 0.80309075, z: 0.8030914}
+  m_LocalScale: {x: 0.7, y: 0.70000005, z: 1.28}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 572426259682412469}
@@ -130,12 +144,13 @@ GameObject:
   - component: {fileID: 3931487090534403950}
   - component: {fileID: 496377758290764802}
   - component: {fileID: 5897949303757913736}
-  m_Layer: 0
+  - component: {fileID: 259964911}
+  m_Layer: 3
   m_Name: Tirroir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3931487090534403950
 Transform:
@@ -203,6 +218,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &259964911
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1826632248616214980}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0410198, y: 0.015991973, z: 1.0607709}
+  m_Center: {x: 0.27002713, y: -0.19675319, z: -0.19990292}
 --- !u!1 &2034294682196422264
 GameObject:
   m_ObjectHideFlags: 0
@@ -214,12 +242,13 @@ GameObject:
   - component: {fileID: 4951603716926714885}
   - component: {fileID: 5351047687566460461}
   - component: {fileID: 5475874770679999232}
-  m_Layer: 0
+  - component: {fileID: 979397961}
+  m_Layer: 3
   m_Name: Base_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4951603716926714885
 Transform:
@@ -286,6 +315,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &979397961
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034294682196422264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0428178, y: 0.1848878, z: 1.0831836}
+  m_Center: {x: 0.269897, y: 0.0002749935, z: -0.19010736}
 --- !u!1 &4746089762056635297
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,12 +339,13 @@ GameObject:
   - component: {fileID: 572426259682412469}
   - component: {fileID: 7421215578150753493}
   - component: {fileID: 6727285808348290519}
-  m_Layer: 0
+  - component: {fileID: 1083902985}
+  m_Layer: 3
   m_Name: Barres
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &572426259682412469
 Transform:
@@ -369,6 +412,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1083902985
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4746089762056635297}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.4786201, y: 0.0053516384, z: 0.7002639}
+  m_Center: {x: -0.000004850328, y: -0.3747642, z: 0.36993772}
 --- !u!1 &5416822026503948658
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,12 +436,13 @@ GameObject:
   - component: {fileID: 3491165673144701923}
   - component: {fileID: 8737195865568071720}
   - component: {fileID: 5101771375092034770}
-  m_Layer: 0
+  - component: {fileID: 1098039031}
+  m_Layer: 3
   m_Name: Fond_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3491165673144701923
 Transform:
@@ -452,3 +509,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1098039031
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5416822026503948658}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.36143795, y: 0.010372344, z: 0.7324162}
+  m_Center: {x: -0.00017035007, y: 0.005626948, z: 0.3650863}
