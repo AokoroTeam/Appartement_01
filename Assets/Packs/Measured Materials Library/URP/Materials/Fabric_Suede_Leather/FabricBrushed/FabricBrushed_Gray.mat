@@ -88,7 +88,7 @@ Material:
     m_Ints: []
     m_Floats:
     - Boolean_1F154CB1: 0
-    - Boolean_4D481D79: 0
+    - Boolean_4D481D79: 1
     - Vector1_2DAFC618: 1
     - Vector1_3BADBCA3: 0
     - Vector1_A953AB47: 1
