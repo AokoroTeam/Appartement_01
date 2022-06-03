@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a7ff927a19afaa14fb94198f42dcf33b
+guid: 4a20151b0952e9141bf8053ee5539e7f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -7,53 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 09 - Default
-    second: {fileID: 2100000, guid: 91204d1266d3163498639760259e553f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 10 - Default
-    second: {fileID: 2100000, guid: 27b9c6b4624854542a466a6166ccff4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 15 - Default
-    second: {fileID: 2100000, guid: f225bceaabeafac4fbfbc912bce316f6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 16 - Default
-    second: {fileID: 2100000, guid: 63ab2f184c62a9f40860ddb410b01477, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 17 - Default
-    second: {fileID: 2100000, guid: 9ba7a79fb43c4d042ab1f45c26a18b98, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: dddd
-    second: {fileID: 2100000, guid: 684f9bf317b831344b5a092f5e7a51ee, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5E03\u6599dd\u6C99\u53D1+\u51F9\u51F81"
-    second: {fileID: 2100000, guid: 80102138103bf6c4c93a5c68a37fefce, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5E03\u6599\u6C99\u53D1+\u51F9\u51F81"
-    second: {fileID: 2100000, guid: 6d94e53982145c846b2198b4a4582fad, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u8F6F\u53052"
-    second: {fileID: 2100000, guid: 2f231069bdd8eaf458f5e5082229acfd, type: 2}
   materials:
     materialImportMode: 0
     materialName: 0

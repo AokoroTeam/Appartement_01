@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BuildReportToolOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EditorLogOverridePath />
   <BuildReportFolderName>UnityBuildReports</BuildReportFolderName>
   <SaveType>0</SaveType>
   <CollectBuildInfo>true</CollectBuildInfo>
@@ -9,14 +10,14 @@
   <CollectTextureImportSettingsOnUnusedToo>false</CollectTextureImportSettingsOnUnusedToo>
   <GetProjectSettings>true</GetProjectSettings>
   <IncludeUsedAssetsInReportCreation>true</IncludeUsedAssetsInReportCreation>
-  <IncludeUnusedAssetsInReportCreation>true</IncludeUnusedAssetsInReportCreation>
-  <IncludeUnusedPrefabsInReportCreation>true</IncludeUnusedPrefabsInReportCreation>
+  <IncludeUnusedAssetsInReportCreation>false</IncludeUnusedAssetsInReportCreation>
+  <IncludeUnusedPrefabsInReportCreation>false</IncludeUnusedPrefabsInReportCreation>
   <IncludeBuildSizeInReportCreation>true</IncludeBuildSizeInReportCreation>
   <IncludeSvnInUnused>true</IncludeSvnInUnused>
   <IncludeGitInUnused>true</IncludeGitInUnused>
   <IncludeBuildReportToolAssetsInUnused>true</IncludeBuildReportToolAssetsInUnused>
-  <GetSizeBeforeBuildForUsedAssets>true</GetSizeBeforeBuildForUsedAssets>
-  <GetImportedSizesForUnusedAssets>true</GetImportedSizesForUnusedAssets>
+  <GetSizeBeforeBuildForUsedAssets>false</GetSizeBeforeBuildForUsedAssets>
+  <GetImportedSizesForUnusedAssets>false</GetImportedSizesForUnusedAssets>
   <IgnorePatternsForUnused />
   <FileFilterNameForTextureData>Textures</FileFilterNameForTextureData>
   <ShowTextureColumnTextureType>true</ShowTextureColumnTextureType>
@@ -45,10 +46,10 @@
   <ShowTextureColumnMaxTextureSize>false</ShowTextureColumnMaxTextureSize>
   <ShowTextureColumnResizeAlgorithm>false</ShowTextureColumnResizeAlgorithm>
   <ShowTextureColumnTextureFormat>true</ShowTextureColumnTextureFormat>
-  <ShowTextureColumnCompressionType>false</ShowTextureColumnCompressionType>
+  <ShowTextureColumnCompressionType>true</ShowTextureColumnCompressionType>
   <ShowTextureColumnCompressionIsCrunched>false</ShowTextureColumnCompressionIsCrunched>
   <ShowTextureColumnCompressionQuality>false</ShowTextureColumnCompressionQuality>
-  <ShowTextureColumnImportedWidthAndHeight>true</ShowTextureColumnImportedWidthAndHeight>
+  <ShowTextureColumnImportedWidthAndHeight>false</ShowTextureColumnImportedWidthAndHeight>
   <ShowTextureColumnRealWidthAndHeight>false</ShowTextureColumnRealWidthAndHeight>
   <ShowColumnAssetPath>false</ShowColumnAssetPath>
   <ShowColumnSizeBeforeBuild>false</ShowColumnSizeBeforeBuild>
@@ -63,8 +64,8 @@
   <FilterToUseInt>0</FilterToUseInt>
   <AssetListPaginationLength>300</AssetListPaginationLength>
   <UnusedAssetsEntriesPerBatch>1000</UnusedAssetsEntriesPerBatch>
-  <DoubleClickOnAssetWillPing>false</DoubleClickOnAssetWillPing>
-  <AssetUsageLabelType>0</AssetUsageLabelType>
+  <DoubleClickOnAssetWillPing>true</DoubleClickOnAssetWillPing>
+  <AssetUsageLabelType>1</AssetUsageLabelType>
   <ShowAssetPrimaryUsersInTooltipIfAvailable>true</ShowAssetPrimaryUsersInTooltipIfAvailable>
   <ShowTooltipThumbnail>true</ShowTooltipThumbnail>
   <ShowThumbnailOnHoverType>0</ShowThumbnailOnHoverType>
@@ -72,10 +73,10 @@
   <TooltipThumbnailHeight>256</TooltipThumbnailHeight>
   <TooltipThumbnailZoomedInWidth>512</TooltipThumbnailZoomedInWidth>
   <TooltipThumbnailZoomedInHeight>512</TooltipThumbnailZoomedInHeight>
-  <NumberOfTopLargestUsedAssetsToShow>10</NumberOfTopLargestUsedAssetsToShow>
-  <NumberOfTopLargestUnusedAssetsToShow>10</NumberOfTopLargestUnusedAssetsToShow>
+  <NumberOfTopLargestUsedAssetsToShow>30</NumberOfTopLargestUsedAssetsToShow>
+  <NumberOfTopLargestUnusedAssetsToShow>0</NumberOfTopLargestUnusedAssetsToShow>
   <AllowDeletingOfUsedAssets>false</AllowDeletingOfUsedAssets>
-  <ShowImportedSizeForUsedAssets>false</ShowImportedSizeForUsedAssets>
+  <ShowImportedSizeForUsedAssets>true</ShowImportedSizeForUsedAssets>
   <AutoShowWindowAfterNormalBuild>true</AutoShowWindowAfterNormalBuild>
   <AutoResortAssetsWhenUnityEditorRegainsFocus>true</AutoResortAssetsWhenUnityEditorRegainsFocus>
   <UseThreadedReportGeneration>true</UseThreadedReportGeneration>
