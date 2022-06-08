@@ -27,13 +27,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Concrete_Tilling_3
+    second: {fileID: 2100000, guid: efd5b6587ddfb514ebcb8d3c96fcbb15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Glass_1
     second: {fileID: 2100000, guid: 2dffd8327def9424a9dbde83aeeec36e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Lit
+    second: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Marbre_Blanc_1
     second: {fileID: 2100000, guid: 879d437dc4c977842a8be21869a7ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir_Toit
+    second: {fileID: 2100000, guid: 84e6b255b917b9e4eb5f7ece90946a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquet_2
+    second: {fileID: 2100000, guid: bb20e0f15c7b39647b12f5f8207245ec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -44,6 +64,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Platre_3
     second: {fileID: 2100000, guid: bc0744bfe61a4054780dbc88810a8026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platre_3_Beige
+    second: {fileID: 2100000, guid: 5c3af36668eb4db42bea694a4edaf987, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -84,10 +109,35 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Tapisserie_1
     second: {fileID: 2100000, guid: f8ec7abe0986b8840b3440a7de7c3d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapisserie_3
+    second: {fileID: 2100000, guid: a6673e21df9f4c9409fd8cf07b5f4674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Wall
+    second: {fileID: 2100000, guid: 6685767690b4c914faa2a13cd7a74a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_White
+    second: {fileID: 2100000, guid: 235e88507098ccd4783e56ab51150fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_White_2
+    second: {fileID: 2100000, guid: 20bafd2febab2974f91d5ccf9fa414a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium_black
+    second: {fileID: 2100000, guid: 74a4550960b6d6649b43893403661e09, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
