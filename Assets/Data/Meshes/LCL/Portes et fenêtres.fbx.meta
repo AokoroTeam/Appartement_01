@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 070181f358e393249a741b805a4a8162
+guid: 1e94fd9fa90d9634a9bd6a3b6033c460
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -9,8 +9,38 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_1
+    second: {fileID: 2100000, guid: 2dffd8327def9424a9dbde83aeeec36e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lit_1
+    second: {fileID: 2100000, guid: 94726df32a04cf3478a413d9db9c3e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Chrome
+    second: {fileID: 2100000, guid: 94726df32a04cf3478a413d9db9c3e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Dark_7
+    second: {fileID: 2100000, guid: 948b18e389a90b4408ac48b3c4c23f54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_White_2
+    second: {fileID: 2100000, guid: 6edb348b46f45dc4587ab80431626125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium_clean_basecolor
+    second: {fileID: 2100000, guid: 84e6b255b917b9e4eb5f7ece90946a3c, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -42,7 +72,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 3
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0
@@ -75,11 +105,11 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
-    tangentImportMode: 2
+    tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
-    normalSmoothingSource: 2
+    normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 0
   humanDescription:
