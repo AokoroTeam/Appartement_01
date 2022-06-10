@@ -22,28 +22,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ceramic_1
-    second: {fileID: 2100000, guid: 9a7af8632df333b4aacebbb2981f67bd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Concrete_Tilling_3
     second: {fileID: 2100000, guid: efd5b6587ddfb514ebcb8d3c96fcbb15, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass_1
-    second: {fileID: 2100000, guid: 2dffd8327def9424a9dbde83aeeec36e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Lit
-    second: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Marbre_Blanc_1
-    second: {fileID: 2100000, guid: 879d437dc4c977842a8be21869a7ff30, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -57,11 +37,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Parquet_Blanc
-    second: {fileID: 2100000, guid: 46f1f00e1948f0a4a9ee6351240f16d5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Platre_3
     second: {fileID: 2100000, guid: bc0744bfe61a4054780dbc88810a8026, type: 2}
   - first:
@@ -69,11 +44,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Platre_3_Beige
     second: {fileID: 2100000, guid: 5c3af36668eb4db42bea694a4edaf987, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Platre_4_1
-    second: {fileID: 2100000, guid: 1fa2ed5b37b84dc4c9db40185322b0d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -92,7 +62,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Platre_4_Gris 1
+      name: Platre_4_Gris_1
     second: {fileID: 2100000, guid: b10f48c34397f3a4e8107ec2d4f886c2, type: 2}
   - first:
       type: UnityEngine:Material
@@ -119,23 +89,8 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: White_Wall
     second: {fileID: 2100000, guid: 6685767690b4c914faa2a13cd7a74a6d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood_White
-    second: {fileID: 2100000, guid: 235e88507098ccd4783e56ab51150fc2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood_White_2
-    second: {fileID: 2100000, guid: 20bafd2febab2974f91d5ccf9fa414a5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aluminium_black
-    second: {fileID: 2100000, guid: 74a4550960b6d6649b43893403661e09, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 1
     materialName: 0
     materialSearch: 2
     materialLocation: 1

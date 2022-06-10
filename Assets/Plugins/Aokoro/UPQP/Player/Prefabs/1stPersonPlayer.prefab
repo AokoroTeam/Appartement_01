@@ -148,7 +148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7776382
+      value: 1.7780488
       objectReference: {fileID: 0}
     - target: {fileID: 1853135964, guid: d6840a0f984a9ae43a469597cf94d75b, type: 3}
       propertyPath: m_Transitions.m_OnCameraLive.m_PersistentCalls.m_Calls.Array.size
@@ -2184,5 +2184,5 @@ MonoBehaviour:
   PlayerIndex: -1
   XYAxis: {fileID: 3355258276840528102, guid: 1a7299b20a6b5214485d750a3eb31bed, type: 3}
   ZAxis: {fileID: 0}
-  verticalSpeed: 1
-  horizontalSpeed: 1
+  verticalSpeed: 0.3
+  horizontalSpeed: 0.3
