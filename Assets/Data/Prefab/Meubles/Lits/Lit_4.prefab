@@ -12,12 +12,12 @@ GameObject:
   - component: {fileID: 782014154870955962}
   - component: {fileID: 5447796005934017728}
   - component: {fileID: 3513992488836058928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dossier_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5477009821237210512
 Transform:
@@ -110,12 +110,12 @@ GameObject:
   - component: {fileID: 3018637367404000946}
   - component: {fileID: 7744634184327571261}
   - component: {fileID: 5942508300692086735}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dossier
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6037007401233883532
 Transform:
@@ -205,12 +205,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3430728631891051542}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3430728631891051542
 Transform:
@@ -246,12 +246,12 @@ GameObject:
   - component: {fileID: 1925002255904420544}
   - component: {fileID: 521570747030452748}
   - component: {fileID: 7618537101732082264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6343551747470209664
 Transform:
@@ -348,12 +348,12 @@ GameObject:
   - component: {fileID: 165810793189936747}
   - component: {fileID: 3766412748268125570}
   - component: {fileID: 355032164117918243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4303717176029676801
 Transform:
@@ -446,12 +446,12 @@ GameObject:
   - component: {fileID: 1173916411163816135}
   - component: {fileID: 2543193565189430488}
   - component: {fileID: 3783179589450659608}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3349294331260992101
 Transform:
@@ -544,12 +544,12 @@ GameObject:
   - component: {fileID: 6121321172260671159}
   - component: {fileID: 8626290398904781015}
   - component: {fileID: 7791879167602045195}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1211621074784202598
 Transform:
@@ -558,7 +558,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1904288507757881727}
-  m_LocalRotation: {x: 0.5301464, y: 0.00000008940696, z: 0.00000014901157, w: 0.8479061}
+  m_LocalRotation: {x: 0.5301464, y: 0.00000008940697, z: 0.00000014901158, w: 0.8479061}
   m_LocalPosition: {x: -0.09392929, y: 0.67142004, z: 0.2007578}
   m_LocalScale: {x: -2.5510714, y: -2.019425, z: -1.9137716}
   m_ConstrainProportionsScale: 1
@@ -639,12 +639,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8704884135715021574}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tissus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8704884135715021574
 Transform:
@@ -676,12 +676,12 @@ GameObject:
   - component: {fileID: 7655934250398045950}
   - component: {fileID: 8200025654174680178}
   - component: {fileID: 1802507918392635401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Drap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1548620279905398218
 Transform:
@@ -774,12 +774,12 @@ GameObject:
   - component: {fileID: 1317056597208122917}
   - component: {fileID: 525169807488588343}
   - component: {fileID: 6658896742749188242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &173908674547835590
 Transform:
@@ -788,7 +788,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3318554636535170777}
-  m_LocalRotation: {x: 0.5301464, y: 0.00000008940696, z: 0.00000014901157, w: 0.8479061}
+  m_LocalRotation: {x: 0.5301464, y: 0.00000008940697, z: 0.00000014901158, w: 0.8479061}
   m_LocalPosition: {x: -0.26494217, y: 0.22411132, z: 0.1427058}
   m_LocalScale: {x: -1.8521926, y: -1.4272715, z: -1.5863872}
   m_ConstrainProportionsScale: 1
@@ -872,12 +872,12 @@ GameObject:
   - component: {fileID: 8017061311790522726}
   - component: {fileID: 7830528889242961825}
   - component: {fileID: 6995141289627835285}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BandeNoire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1942438752538510621
 Transform:
@@ -970,12 +970,12 @@ GameObject:
   - component: {fileID: 8038644329957757777}
   - component: {fileID: 3539602625954107104}
   - component: {fileID: 7318196107152622941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8976042154108382005
 Transform:
@@ -985,7 +985,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4918622082296854318}
   m_LocalRotation: {x: -0.8479061, y: 0.00000025387354, z: -0.00000025387354, w: 0.5301464}
-  m_LocalPosition: {x: 0.29512024, y: 0.20577346, z: 0.15292871}
+  m_LocalPosition: {x: 0.29512024, y: 0.20577344, z: 0.15292871}
   m_LocalScale: {x: 1.2773472, y: 1.4272714, z: 1.5863874}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -1068,12 +1068,12 @@ GameObject:
   - component: {fileID: 1678658235112729438}
   - component: {fileID: 5641049122645702293}
   - component: {fileID: 4829341711676291745}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1809923156035015930
 Transform:
@@ -1163,12 +1163,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6405283670725875566}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Lit_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6405283670725875566
 Transform:
@@ -1177,8 +1177,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6030305759022648788}
-  m_LocalRotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalRotation: {x: 3.5143485e-11, y: -0.7071068, z: -0.7071068, w: 0.000000014901158}
+  m_LocalPosition: {x: -4.4674397, y: 3.817632, z: 7.122001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -1187,7 +1187,7 @@ Transform:
   - {fileID: 8704884135715021574}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -180}
 --- !u!1 &6610316072910428799
 GameObject:
   m_ObjectHideFlags: 0
@@ -1200,12 +1200,12 @@ GameObject:
   - component: {fileID: 298567642433453940}
   - component: {fileID: 6183015767718961068}
   - component: {fileID: 4003678712795430742}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matelas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &10981913534323210
 Transform:
@@ -1298,12 +1298,12 @@ GameObject:
   - component: {fileID: 6806388129792146882}
   - component: {fileID: 5949916060454904893}
   - component: {fileID: 5826206380159644234}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8507390739341484957
 Transform:
@@ -1396,12 +1396,12 @@ GameObject:
   - component: {fileID: 6396716565488106541}
   - component: {fileID: 9160674182058713710}
   - component: {fileID: 6147561806393354344}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8554423398515410762
 Transform:
@@ -1410,7 +1410,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6995122343356611693}
-  m_LocalRotation: {x: 0.5301464, y: 0.00000008940696, z: 0.00000014901157, w: 0.8479061}
+  m_LocalRotation: {x: 0.5301464, y: 0.00000008940697, z: 0.00000014901158, w: 0.8479061}
   m_LocalPosition: {x: -0.2199955, y: 0.875963, z: 0.1427058}
   m_LocalScale: {x: -1.8521926, y: -1.4272715, z: -1.5863872}
   m_ConstrainProportionsScale: 1
@@ -1494,12 +1494,12 @@ GameObject:
   - component: {fileID: 1193614687871356267}
   - component: {fileID: 731512144702835253}
   - component: {fileID: 4506722208550173821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Coussin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &738562183744189678
 Transform:

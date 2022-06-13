@@ -30,6 +30,13 @@ namespace UPQP.Managers
         private void Start()
         {
             OnFocusLost();
+#if (UNITY_WEBPLAYER || UNITY_WEBGL) && !UNITY_EDITOR
+    try {
+        Application.ExternalCall("GameControlReady");
+    } catch (System.Exception e) {
+        Debug.LogError("GameControlReady function not on webpage"+e);
+    }
+#endif
         }
 
 
@@ -65,6 +72,17 @@ namespace UPQP.Managers
             Invoke(nameof(OnFocusRegained), .5f);
         }
 
+        // This function will be called from the webpage
+        public void FocusCanvas(string p_focus)
+        {
+#if !UNITY_EDITOR && UNITY_WEBGL
+    if (p_focus == "0") {
+        OnFocusLost();
+    } else {
+        OnFocusRegained();
+    }
+#endif
+        }
         protected override void OnExistingInstanceFound(GameManager existingInstance)
         {
             Destroy(gameObject);
