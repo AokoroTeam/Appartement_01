@@ -63,7 +63,7 @@ namespace UPQP.Managers
             cursorVisibility.Unsubscribe(this);
 
             LoosedFocusUI.SetActive(false);
-            Screen.fullScreen = true;
+            //Screen.fullScreen = true;
             Time.timeScale = 1;
         }
 

@@ -44,7 +44,7 @@
    
    function FocusCanvas(focus) {
        if (gameReady) {
-           SendMessage("GameControler", "FocusCanvas", focus);
+           unityInstance.SendMessage("GameManager", "FocusCanvas", focus);
        }
    }
    </script>
