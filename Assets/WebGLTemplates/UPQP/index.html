@@ -144,11 +144,14 @@
 
     <script type='text/javascript'>
         document.addEventListener('click', function (e) {
-            if (e.target.id == "canvas") {
+            console.log(e.target.id);
+            if (e.target.id == "unity-canvas") {
                 // Clicked on canvas
+                console.log("in");
                 FocusCanvas("1");
             } else {
                 // Clicked outside of canvas
+                console.log("out");
                 FocusCanvas("0");
             }
         });
