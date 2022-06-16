@@ -144,17 +144,32 @@
 
     <script type='text/javascript'>
         document.addEventListener('click', function (e) {
-            console.log(e.target.id);
             if (e.target.id == "unity-canvas") {
                 // Clicked on canvas
-                console.log("in");
                 FocusCanvas("1");
+                unityGame.focus;
             } else {
                 // Clicked outside of canvas
-                console.log("out");
                 FocusCanvas("0");
             }
         });
+        document.addEventListener('fullscreenchange', function (event) {
+          if(!document.fullscreen)
+          {
+            FocusCanvas("0");
+          }
+        });
+        document.addEventListener("keydown", (e) => {
+        if(e.key === "Escape") 
+          {
+            FocusCanvas("0");
+          }
+        });
+        
+        /*
+      document.addEventListener('fullscreenchange', function (event) {
+          console.log('Fullscreen: ' + event.detail);
+      });*/
     </script>
 </body>
 </html>

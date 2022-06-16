@@ -53,6 +53,7 @@ namespace UPQP.Managers
 
             LoosedFocusUI.SetActive(true);
 
+            WebGLInput.captureAllKeyboardInput = false;
             Time.timeScale = 0;
         }
 
@@ -63,7 +64,7 @@ namespace UPQP.Managers
             cursorVisibility.Unsubscribe(this);
 
             LoosedFocusUI.SetActive(false);
-            //Screen.fullScreen = true;
+            WebGLInput.captureAllKeyboardInput = true;            //Screen.fullScreen = true;
             Time.timeScale = 1;
         }
 
